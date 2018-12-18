@@ -1,0 +1,891 @@
+﻿Log file open, 12/18/18 08:14:12
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Wukongpointpng
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.301770
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.098s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.041s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.18-07.14.12:803][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.18-07.14.12:803][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.18-07.14.12:818][  0]LogHAL: Display: Platform has ~ 16 GB [17055907840 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.18-07.14.12:818][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.18-07.14.12:818][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.18-07.14.12:818][  0]LogInit: Computer: DESKTOP-N47D5GJ
+[2018.12.18-07.14.12:818][  0]LogInit: User: SizeAKAelBG
+[2018.12.18-07.14.12:818][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.18-07.14.12:818][  0]LogInit: High frequency timer resolution =2.531253 MHz
+[2018.12.18-07.14.12:818][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.18-07.14.12:818][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.18-07.14.12:818][  0]LogMemory: Process Physical Memory: 100.25 MB used, 100.25 MB peak
+[2018.12.18-07.14.12:818][  0]LogMemory: Process Virtual Memory: 89.36 MB used, 89.36 MB peak
+[2018.12.18-07.14.12:818][  0]LogMemory: Physical Memory: 7365.00 MB used,  8900.78 MB free, 16265.78 MB total
+[2018.12.18-07.14.12:818][  0]LogMemory: Virtual Memory: 4643.68 MB used,  8900.78 MB free, 134217728.00 MB total
+[2018.12.18-07.14.12:840][  0]LogInit: Using OS detected language (fr-FR).
+[2018.12.18-07.14.12:840][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.12.18-07.14.12:840][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2018.12.18-07.14.12:842][  0]LogStreaming: Display: Took  0.002s to InitEngineTextLocalization.
+[2018.12.18-07.14.12:842][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.18-07.14.12:871][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.18-07.14.12:871][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.18-07.14.13:111][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.18-07.14.13:111][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.18-07.14.13:188][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980M' (Feature Level 11_0)
+[2018.12.18-07.14.13:188][  0]LogD3D11RHI:       8144/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.18-07.14.13:199][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.12.18-07.14.13:199][  0]LogD3D11RHI:       128/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.12.18-07.14.13:201][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.18-07.14.13:201][  0]LogD3D11RHI:       0/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.18-07.14.13:201][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.18-07.14.13:248][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.18-07.14.13:248][  0]LogD3D11RHI:     GPU DeviceId: 0x13d7 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.18-07.14.13:248][  0]LogWindows: EnumDisplayDevices:
+[2018.12.18-07.14.13:248][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.12.18-07.14.13:248][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.12.18-07.14.13:248][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.12.18-07.14.13:249][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2018.12.18-07.14.13:249][  0]LogWindows:    4. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2018.12.18-07.14.13:249][  0]LogWindows:    5. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2018.12.18-07.14.13:250][  0]LogWindows:    6. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2018.12.18-07.14.13:250][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.12.18-07.14.13:250][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980M
+[2018.12.18-07.14.13:250][  0]LogD3D11RHI:   Driver Version: 416.94 (internal:25.21.14.1694, unified:416.94)
+[2018.12.18-07.14.13:250][  0]LogD3D11RHI:      Driver Date: 11-12-2018
+[2018.12.18-07.14.13:250][  0]LogRHI: Texture pool is 5701 MB (70% of 8144 MB)
+[2018.12.18-07.14.13:300][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.18-07.14.13:337][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.18-07.14.13:338][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../../Users/SizeAKAelBG/Documents/GitHubs/Projet-Unreal/Wukongpointpng/Intermediate/Shaders/WorkingDirectory/22956/).
+[2018.12.18-07.14.13:338][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/SizeAKAelBG/AppData/Local/Temp/UnrealShaderWorkingDir/1BF865F74B239EF6125ABA90250FAA22/'.
+[2018.12.18-07.14.13:643][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.18-07.14.13:658][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.18-07.14.13:671][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.18-07.14.13:685][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.18-07.14.13:699][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.18-07.14.13:714][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.18-07.14.13:733][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.18-07.14.13:747][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.18-07.14.13:754][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.18-07.14.13:857][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-07.14.13:857][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-07.14.13:857][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-07.14.13:857][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-07.14.13:857][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-07.14.13:857][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-07.14.13:857][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-07.14.13:857][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-07.14.13:857][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-07.14.13:857][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-07.14.13:857][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-07.14.13:857][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-07.14.13:857][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-07.14.13:857][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-07.14.13:857][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-07.14.13:857][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-07.14.13:857][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-07.14.13:857][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-07.14.13:859][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.18-07.14.13:922][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.18-07.14.13:922][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.18-07.14.13:948][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.18-07.14.13:948][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.18-07.14.13:961][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.18-07.14.13:975][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.18-07.14.13:990][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.18-07.14.14:007][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.18-07.14.14:022][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.18-07.14.14:023][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.18-07.14.14:073][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.18-07.14.14:073][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.18-07.14.14:073][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.18-07.14.14:843][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.18-07.14.14:903][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/SizeAKAelBG/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.18-07.14.14:903][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/SizeAKAelBG/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.18-07.14.14:903][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/SizeAKAelBG/Documents/GitHubs/Projet-Unreal/Wukongpointpng/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.18-07.14.14:903][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.18-07.14.14:903][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/SizeAKAelBG/Documents/GitHubs/Projet-Unreal/Wukongpointpng/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.18-07.14.14:903][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.18-07.14.14:917][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.18-07.14.14:930][  0]LogDerivedDataCache: Using Local data cache path C:/Users/SizeAKAelBG/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.18-07.14.14:930][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.18-07.14.14:930][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.18-07.14.14:948][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.18-07.14.14:950][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.18-07.14.14:950][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.18-07.14.15:031][  0]LogAssetRegistry: FAssetRegistry took 0.0296 seconds to start up
+[2018.12.18-07.14.15:374][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.18-07.14.15:520][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.18-07.14.15:523][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.18-07.14.15:523][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.18-07.14.15:523][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.18-07.14.15:523][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.18-07.14.15:542][  0]LogNetVersion: Wukongpointpng 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4139426139)
+[2018.12.18-07.14.16:150][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.111426 seconds
+[2018.12.18-07.14.16:157][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.12.18-07.14.16:157][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.12.18-07.14.16:157][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.18-07.14.17:083][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.18-07.14.17:097][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.18-07.14.17:246][  0]SourceControl: Source control is disabled
+[2018.12.18-07.14.17:246][  0]SourceControl: Source control is disabled
+[2018.12.18-07.14.17:248][  0]SourceControl: Source control is disabled
+[2018.12.18-07.14.17:249][  0]SourceControl: Source control is disabled
+[2018.12.18-07.14.17:413][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.18-07.14.17:467][  0]LogOcInput: OculusInput pre-init called
+[2018.12.18-07.14.17:530][  0]LogEngine: Initializing Engine...
+[2018.12.18-07.14.17:531][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.18-07.14.17:533][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.18-07.14.17:533][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.18-07.14.17:533][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.18-07.14.17:533][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.18-07.14.17:785][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.18-07.14.17:798][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.18-07.14.17:829][  0]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.18-07.14.17:877][  0]LogInit: FAudioDevice initialized.
+[2018.12.18-07.14.17:878][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.18-07.14.17:976][  0]LogDerivedDataCache: Saved boot cache 0.10s 71MB C:/Users/SizeAKAelBG/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.18-07.14.17:988][  0]LogInit: Texture streaming: Enabled
+[2018.12.18-07.14.18:004][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.18-07.14.18:017][  0]LogInit: Transaction tracking system initialized
+[2018.12.18-07.14.18:035][  0]BlueprintLog: New page: Editor Load
+[2018.12.18-07.14.18:099][  0]LocalizationService: Localization service is disabled
+[2018.12.18-07.14.18:391][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.18-07.14.18:391][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.18-07.14.18:391][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.18-07.14.18:391][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.18-07.14.18:391][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.18-07.14.18:391][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.18-07.14.18:391][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.18-07.14.18:507][  0]LogFileCache: Scanning file cache for directory 'D:/Users/SizeAKAelBG/Documents/GitHubs/Projet-Unreal/Wukongpointpng/Content/' took 0.01s
+[2018.12.18-07.14.18:507][  0]SourceControl: Source control is disabled
+[2018.12.18-07.14.18:507][  0]Cmd: MAP LOAD FILE="../../../../../../Users/SizeAKAelBG/Documents/GitHubs/Projet-Unreal/Wukongpointpng/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.18-07.14.18:507][  0]LightingResults: New page: Lighting Build
+[2018.12.18-07.14.18:509][  0]MapCheck: New page: Map Check
+[2018.12.18-07.14.18:509][  0]LightingResults: New page: Lighting Build
+[2018.12.18-07.14.19:287][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.12.18-07.14.19:322][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.18-07.14.19:348][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.18-07.14.19:412][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63,205ms to complete.
+[2018.12.18-07.14.19:412][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 0.906
+[2018.12.18-07.14.19:525][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-07.14.19:535][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-07.14.19:544][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-07.14.19:554][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-07.14.19:560][  0]LogCollectionManager: Loaded 0 collections in 0.001120 seconds
+[2018.12.18-07.14.19:600][  0]LogFileCache: Scanning file cache for directory 'D:/Users/SizeAKAelBG/Documents/GitHubs/Projet-Unreal/Wukongpointpng/Saved/Collections/' took 0.01s
+[2018.12.18-07.14.19:600][  0]LogFileCache: Scanning file cache for directory 'D:/Users/SizeAKAelBG/Documents/GitHubs/Projet-Unreal/Wukongpointpng/Content/Developers/SizeAKAelBG/Collections/' took 0.01s
+[2018.12.18-07.14.19:600][  0]LogFileCache: Scanning file cache for directory 'D:/Users/SizeAKAelBG/Documents/GitHubs/Projet-Unreal/Wukongpointpng/Content/Collections/' took 0.01s
+[2018.12.18-07.14.19:600][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.18-07.14.19:610][  0]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 2572 classes and 603 folders.
+[2018.12.18-07.14.19:615][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.18-07.14.19:664][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.18-07.14.19:669][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.12.18-07.14.19:747][  0]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.18-07.14.19:750][  0]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.18-07.14.19:761][  0]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.18-07.14.19:857][  0]LogRenderer: Reallocating scene render targets to support 1208x496 Format 10 NumSamples 1 (Frame:1).
+[2018.12.18-07.14.20:026][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.18-07.14.20:026][  0]LogLoad: (Engine Initialization) Total time: 9.06 seconds
+[2018.12.18-07.14.20:026][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.18-07.14.20:048][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.12.18-07.14.20:347][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.18-07.14.20:363][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.18-07.14.20:385][  0]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.18-07.14.21:069][ 33]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.18-07.14.33:217][759]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.12.18-07.14.34:139][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.18-07.14.34:349][823]LogAIModule: Creating AISystem for world LD_01
+[2018.12.18-07.14.34:381][823]LogAssetEditorManager: Opening Asset editor for World /Game/SideScrollerBP/Maps/LD_01.LD_01
+[2018.12.18-07.14.34:408][823]Cmd: MAP LOAD FILE="../../../../../../Users/SizeAKAelBG/Documents/GitHubs/Projet-Unreal/Wukongpointpng/Content/SideScrollerBP/Maps/LD_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.18-07.14.34:409][823]LightingResults: New page: Lighting Build
+[2018.12.18-07.14.34:409][823]LoadErrors: New page: Loading map: LD_01.umap
+[2018.12.18-07.14.34:410][823]MapCheck: New page: Map Check
+[2018.12.18-07.14.34:411][823]LightingResults: New page: Lighting Build
+[2018.12.18-07.14.34:520][823]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.18-07.14.34:583][823]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.18-07.14.34:653][823]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70,092ms to complete.
+[2018.12.18-07.14.34:653][823]LogFileHelpers: Loading map 'LD_01' took 0.245
+[2018.12.18-07.14.36:228][909]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.18-07.14.36:249][909]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.14.36:249][909]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.18-07.14.36:262][909]PIE: New page: PIE session: LD_01 (18 déc. 2018 09:14:36)
+[2018.12.18-07.14.36:262][909]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01
+[2018.12.18-07.14.36:288][909]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025934s)
+[2018.12.18-07.14.36:289][909]LogAIModule: Creating AISystem for world LD_01
+[2018.12.18-07.14.36:289][909]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2018.12.18-07.14.36:289][909]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LD_01.LD_01 to /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01.LD_01 (0.027130s)
+[2018.12.18-07.14.36:319][909]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.18-07.14.36:337][909]LogInit: FAudioDevice initialized.
+[2018.12.18-07.14.36:348][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-07.14.36:406][909]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.12.18-07.14.36:410][909]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01.LD_01 up for play (max tick rate 60) at 2018.12.18-08.14.36
+[2018.12.18-07.14.36:410][909]LogWorld: Bringing up level for play took: 0.002651
+[2018.12.18-07.14.36:427][909]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 10 classes and 0 folders.
+[2018.12.18-07.14.36:432][909]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01 0,536
+[2018.12.18-07.14.36:433][909]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.14.36:484][909]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.12.18-07.14.41:438][204]LogAssetRegistry: Asset discovery search completed in 26.4295 seconds
+[2018.12.18-07.14.41:440][204]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000063 seconds (updated 0 objects)
+[2018.12.18-07.15.47:620][449]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.15.47:621][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-07.15.47:640][449]LogSlate: Window 'Wukongpointpng Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.18-07.15.47:676][449]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.18-07.15.47:676][449]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.15.47:958][450]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.12.18-07.15.55:656][865]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/SideScrollerBP/UI_Button.UI_Button
+[2018.12.18-07.15.56:229][865]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.12.18-07.15.57:873][865]LogSlate: Took 0.023382 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.18-07.16.03:680][208]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/StarterContent/TEST.TEST
+[2018.12.18-07.18.22:867][655]LogSlate: Window 'TEST' being destroyed
+[2018.12.18-07.19.08:681][912]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/SideScrollerBP/Timer.Timer
+[2018.12.18-07.19.18:505][586]LogEditorTransaction: Undo Add Widget
+[2018.12.18-07.19.20:654][701]LogEditorTransaction: Undo Add Widget
+[2018.12.18-07.20.28:987][884]LogEditorTransaction: Undo Edit X
+[2018.12.18-07.20.43:786][702]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.18-07.20.50:014][ 36]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.18-07.21.41:689][186]LogEditorTransaction: Undo Edit ZOrder
+[2018.12.18-07.21.56:062][ 56]BlueprintLog: New page: Compile Timer
+[2018.12.18-07.21.56:924][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Timer" FILE="../../../../../../Users/SizeAKAelBG/Documents/GitHubs/Projet-Unreal/Wukongpointpng/Content/SideScrollerBP/Timer.uasset" SILENT=true
+[2018.12.18-07.21.56:944][ 78]LogSavePackage: Moving '../../../../../../Users/SizeAKAelBG/Documents/GitHubs/Projet-Unreal/Wukongpointpng/Saved/Timer95F30B8F419DE0BE7B19A0A50795C813.tmp' to '../../../../../../Users/SizeAKAelBG/Documents/GitHubs/Projet-Unreal/Wukongpointpng/Content/SideScrollerBP/Timer.uasset'
+[2018.12.18-07.21.58:909][209]LogSlate: Window 'Timer' being destroyed
+[2018.12.18-07.22.20:458][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.18-07.22.53:288][535]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.18-07.22.58:665][142]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01
+[2018.12.18-07.23.16:528][129]LogEditorTransaction: Undo Add Node
+[2018.12.18-07.23.34:759][297]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/SideScrollerBP/MainMenu.MainMenu
+[2018.12.18-07.23.39:353][779]LogSlate: Took 0.017179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.18-07.23.53:845][501]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2018.12.18-07.24.20:450][243]LogAIModule: Creating AISystem for world MainMenu
+[2018.12.18-07.24.20:454][243]LogAssetEditorManager: Opening Asset editor for World /Game/SideScrollerBP/Maps/MainMenu.MainMenu
+[2018.12.18-07.24.21:808][243]LogSlate: Window 'Save Content' being destroyed
+[2018.12.18-07.24.22:443][243]LogSavePackage: Moving '../../../../../../Users/SizeAKAelBG/Documents/GitHubs/Projet-Unreal/Wukongpointpng/Saved/LD_015653C77C4EF37A9F9CDCD18A77A5992C.tmp' to '../../../../../../Users/SizeAKAelBG/Documents/GitHubs/Projet-Unreal/Wukongpointpng/Content/SideScrollerBP/Maps/LD_01.umap'
+[2018.12.18-07.24.22:527][243]LogFileHelpers: Saving map 'LD_01' took 0.709
+[2018.12.18-07.24.22:528][243]Cmd: MAP LOAD FILE="../../../../../../Users/SizeAKAelBG/Documents/GitHubs/Projet-Unreal/Wukongpointpng/Content/SideScrollerBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.18-07.24.22:528][243]LightingResults: New page: Lighting Build
+[2018.12.18-07.24.22:529][243]LoadErrors: New page: Loading map: MainMenu.umap
+[2018.12.18-07.24.22:577][243]MapCheck: New page: Map Check
+[2018.12.18-07.24.22:578][243]LightingResults: New page: Lighting Build
+[2018.12.18-07.24.22:691][243]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.18-07.24.22:768][243]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.18-07.24.22:834][243]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64,994ms to complete.
+[2018.12.18-07.24.22:834][243]LogFileHelpers: Loading map 'MainMenu' took 0.307
+[2018.12.18-07.24.29:351][966]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.18-07.24.29:387][966]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.12.18-07.24.29:388][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.18-07.24.29:389][966]PIE: New page: PIE session: MainMenu (18 déc. 2018 09:24:29)
+[2018.12.18-07.24.29:389][966]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu
+[2018.12.18-07.24.29:390][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001068s)
+[2018.12.18-07.24.29:390][966]LogAIModule: Creating AISystem for world MainMenu
+[2018.12.18-07.24.29:391][966]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2018.12.18-07.24.29:391][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/MainMenu.MainMenu to /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001913s)
+[2018.12.18-07.24.29:429][966]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.18-07.24.29:449][966]LogInit: FAudioDevice initialized.
+[2018.12.18-07.24.29:458][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-07.24.29:496][966]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.12.18-07.24.29:497][966]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.12.18-08.24.29
+[2018.12.18-07.24.29:498][966]LogWorld: Bringing up level for play took: 0.000823
+[2018.12.18-07.24.29:517][966]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu -0,379
+[2018.12.18-07.24.29:518][966]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.12.18-07.24.31:109][126]LogSlate: Window 'Wukongpointpng Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.18-07.24.31:114][126]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.12.18-07.24.31:148][126]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.18-07.24.31:148][126]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.12.18-07.24.31:207][127]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.12.18-07.24.33:404][368]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2018.12.18-07.25.00:744][540]LogAIModule: Creating AISystem for world LD_01
+[2018.12.18-07.25.00:770][540]LogAssetEditorManager: Opening Asset editor for World /Game/SideScrollerBP/Maps/LD_01.LD_01
+[2018.12.18-07.25.00:802][540]Cmd: MAP LOAD FILE="../../../../../../Users/SizeAKAelBG/Documents/GitHubs/Projet-Unreal/Wukongpointpng/Content/SideScrollerBP/Maps/LD_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.18-07.25.00:802][540]LightingResults: New page: Lighting Build
+[2018.12.18-07.25.00:803][540]LoadErrors: New page: Loading map: LD_01.umap
+[2018.12.18-07.25.00:846][540]MapCheck: New page: Map Check
+[2018.12.18-07.25.00:847][540]LightingResults: New page: Lighting Build
+[2018.12.18-07.25.00:961][540]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.18-07.25.01:037][540]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.18-07.25.01:106][540]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69,228ms to complete.
+[2018.12.18-07.25.01:106][540]LogFileHelpers: Loading map 'LD_01' took 0.305
+[2018.12.18-07.25.10:242][501]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01
+[2018.12.18-07.26.03:579][713]LogAIModule: Creating AISystem for world MainMenu
+[2018.12.18-07.26.08:654][275]LogAssetEditorManager: Opening Asset editor for World /Game/SideScrollerBP/Maps/MainMenu.MainMenu
+[2018.12.18-07.26.09:672][275]LogSlate: Window 'Save Content' being destroyed
+[2018.12.18-07.26.09:997][275]LogSavePackage: Moving '../../../../../../Users/SizeAKAelBG/Documents/GitHubs/Projet-Unreal/Wukongpointpng/Saved/LD_01EF147BBC44E8316DBD5153830B9D3387.tmp' to '../../../../../../Users/SizeAKAelBG/Documents/GitHubs/Projet-Unreal/Wukongpointpng/Content/SideScrollerBP/Maps/LD_01.umap'
+[2018.12.18-07.26.10:062][275]LogFileHelpers: Saving map 'LD_01' took 0.380
+[2018.12.18-07.26.10:070][275]Cmd: MAP LOAD FILE="../../../../../../Users/SizeAKAelBG/Documents/GitHubs/Projet-Unreal/Wukongpointpng/Content/SideScrollerBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.18-07.26.10:070][275]LightingResults: New page: Lighting Build
+[2018.12.18-07.26.10:071][275]LoadErrors: New page: Loading map: MainMenu.umap
+[2018.12.18-07.26.10:124][275]MapCheck: New page: Map Check
+[2018.12.18-07.26.10:124][275]LightingResults: New page: Lighting Build
+[2018.12.18-07.26.10:224][275]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.18-07.26.10:292][275]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.18-07.26.10:376][275]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 83,194ms to complete.
+[2018.12.18-07.26.10:377][275]LogFileHelpers: Loading map 'MainMenu' took 0.310
+[2018.12.18-07.26.14:937][756]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2018.12.18-07.26.17:988][ 77]LogAIModule: Creating AISystem for world LD_01
+[2018.12.18-07.26.18:002][ 77]LogAssetEditorManager: Opening Asset editor for World /Game/SideScrollerBP/Maps/LD_01.LD_01
+[2018.12.18-07.26.18:037][ 77]Cmd: MAP LOAD FILE="../../../../../../Users/SizeAKAelBG/Documents/GitHubs/Projet-Unreal/Wukongpointpng/Content/SideScrollerBP/Maps/LD_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.18-07.26.18:037][ 77]LightingResults: New page: Lighting Build
+[2018.12.18-07.26.18:037][ 77]LoadErrors: New page: Loading map: LD_01.umap
+[2018.12.18-07.26.18:081][ 77]MapCheck: New page: Map Check
+[2018.12.18-07.26.18:081][ 77]LightingResults: New page: Lighting Build
+[2018.12.18-07.26.18:192][ 77]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.18-07.26.18:259][ 77]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.18-07.26.18:323][ 77]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63,555ms to complete.
+[2018.12.18-07.26.18:323][ 77]LogFileHelpers: Loading map 'LD_01' took 0.288
+[2018.12.18-07.26.22:846][556]LogAIModule: Creating AISystem for world MainMenu
+[2018.12.18-07.26.22:849][556]LogAssetEditorManager: Opening Asset editor for World /Game/SideScrollerBP/Maps/MainMenu.MainMenu
+[2018.12.18-07.26.22:878][556]Cmd: MAP LOAD FILE="../../../../../../Users/SizeAKAelBG/Documents/GitHubs/Projet-Unreal/Wukongpointpng/Content/SideScrollerBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.18-07.26.22:878][556]LightingResults: New page: Lighting Build
+[2018.12.18-07.26.22:879][556]LoadErrors: New page: Loading map: MainMenu.umap
+[2018.12.18-07.26.22:879][556]MapCheck: New page: Map Check
+[2018.12.18-07.26.22:879][556]LightingResults: New page: Lighting Build
+[2018.12.18-07.26.22:976][556]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.18-07.26.23:038][556]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.18-07.26.23:106][556]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 67,643ms to complete.
+[2018.12.18-07.26.23:108][556]LogFileHelpers: Loading map 'MainMenu' took 0.231
+[2018.12.18-07.26.28:943][233]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2018.12.18-07.27.06:643][688]LogAIModule: Creating AISystem for world LD_01
+[2018.12.18-07.27.06:666][688]LogAssetEditorManager: Opening Asset editor for World /Game/SideScrollerBP/Maps/LD_01.LD_01
+[2018.12.18-07.27.06:696][688]Cmd: MAP LOAD FILE="../../../../../../Users/SizeAKAelBG/Documents/GitHubs/Projet-Unreal/Wukongpointpng/Content/SideScrollerBP/Maps/LD_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.18-07.27.06:696][688]LightingResults: New page: Lighting Build
+[2018.12.18-07.27.06:697][688]LoadErrors: New page: Loading map: LD_01.umap
+[2018.12.18-07.27.06:743][688]MapCheck: New page: Map Check
+[2018.12.18-07.27.06:743][688]LightingResults: New page: Lighting Build
+[2018.12.18-07.27.06:853][688]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.18-07.27.06:922][688]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.18-07.27.06:990][688]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 68,18ms to complete.
+[2018.12.18-07.27.06:990][688]LogFileHelpers: Loading map 'LD_01' took 0.296
+[2018.12.18-07.27.14:182][497]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01
+[2018.12.18-07.27.32:928][683]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.18-07.27.32:960][683]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.27.32:960][683]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.18-07.27.32:962][683]LogPlayLevel: [PlayLevel] Compiling LD_01 before play...
+[2018.12.18-07.27.32:965][683]LogBlueprint: Error: [Compiler PersistentLevel.LD_01] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2018.12.18-07.27.32:966][683]LogBlueprint: Warning: [Compiler PersistentLevel.LD_01] [0802,00] Compile of PersistentLevel.LD_01 failed. 1 Fatal Issue(s) 0 Warning(s) [in 4 ms] (/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01)
+[2018.12.18-07.27.33:174][683]LogPlayLevel: PlayLevel: Blueprint regeneration took 214 ms (1 blueprints)
+[2018.12.18-07.27.33:174][683]BlueprintLog: Blueprint LD_01 failed to compile
+[2018.12.18-07.27.34:193][683]LogSlate: Window 'Message' being destroyed
+[2018.12.18-07.27.34:200][683]PIE: New page: PIE session: LD_01 (18 déc. 2018 09:27:34)
+[2018.12.18-07.27.34:200][683]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01
+[2018.12.18-07.27.34:214][683]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014036s)
+[2018.12.18-07.27.34:215][683]LogAIModule: Creating AISystem for world LD_01
+[2018.12.18-07.27.34:216][683]LogPlayLevel: PIE: World Init took: (0.001333s)
+[2018.12.18-07.27.34:216][683]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LD_01.LD_01 to /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01.LD_01 (0.015573s)
+[2018.12.18-07.27.34:261][683]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.18-07.27.34:277][683]LogInit: FAudioDevice initialized.
+[2018.12.18-07.27.34:288][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-07.27.34:331][683]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.12.18-07.27.34:333][683]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01.LD_01 up for play (max tick rate 0) at 2018.12.18-08.27.34
+[2018.12.18-07.27.34:334][683]LogWorld: Bringing up level for play took: 0.002043
+[2018.12.18-07.27.34:347][683]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01 0,451
+[2018.12.18-07.27.34:348][683]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.27.36:056][846]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.27.36:056][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-07.27.36:078][846]LogSlate: Window 'Wukongpointpng Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.18-07.27.36:110][846]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.18-07.27.36:111][846]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.27.36:167][847]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.12.18-07.27.46:849][ 99]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.18-07.27.46:872][ 99]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.27.46:872][ 99]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.18-07.27.46:874][ 99]LogPlayLevel: [PlayLevel] Compiling LD_01 before play...
+[2018.12.18-07.27.47:035][ 99]LogPlayLevel: PlayLevel: Blueprint regeneration took 162 ms (1 blueprints)
+[2018.12.18-07.27.47:035][ 99]PIE: New page: PIE session: LD_01 (18 déc. 2018 09:27:47)
+[2018.12.18-07.27.47:035][ 99]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01
+[2018.12.18-07.27.47:048][ 99]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013546s)
+[2018.12.18-07.27.47:049][ 99]LogAIModule: Creating AISystem for world LD_01
+[2018.12.18-07.27.47:050][ 99]LogPlayLevel: PIE: World Init took: (0.001198s)
+[2018.12.18-07.27.47:050][ 99]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LD_01.LD_01 to /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01.LD_01 (0.014965s)
+[2018.12.18-07.27.47:093][ 99]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.18-07.27.47:109][ 99]LogInit: FAudioDevice initialized.
+[2018.12.18-07.27.47:116][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-07.27.47:149][ 99]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.12.18-07.27.47:152][ 99]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01.LD_01 up for play (max tick rate 0) at 2018.12.18-08.27.47
+[2018.12.18-07.27.47:152][ 99]LogWorld: Bringing up level for play took: 0.002071
+[2018.12.18-07.27.47:165][ 99]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01 1,269
+[2018.12.18-07.27.47:165][ 99]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.28.08:667][643]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.28.08:668][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-07.28.08:692][643]LogSlate: Window 'Wukongpointpng Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.18-07.28.08:727][643]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.18-07.28.08:728][643]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.28.08:786][644]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.12.18-07.28.22:149][222]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2018.12.18-07.28.28:712][869]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.18-07.28.53:677][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.18-07.29.05:343][962]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.18-07.29.24:668][222]LogSavePackage: Moving '../../../../../../Users/SizeAKAelBG/Documents/GitHubs/Projet-Unreal/Wukongpointpng/Saved/LD_01D15DAA3F45DFB9F7092EF5941A577455.tmp' to '../../../../../../Users/SizeAKAelBG/Documents/GitHubs/Projet-Unreal/Wukongpointpng/Content/SideScrollerBP/Maps/LD_01.umap'
+[2018.12.18-07.29.31:263][970]LogAIModule: Creating AISystem for world MainMenu
+[2018.12.18-07.29.31:266][970]LogAssetEditorManager: Opening Asset editor for World /Game/SideScrollerBP/Maps/MainMenu.MainMenu
+[2018.12.18-07.29.31:294][970]Cmd: MAP LOAD FILE="../../../../../../Users/SizeAKAelBG/Documents/GitHubs/Projet-Unreal/Wukongpointpng/Content/SideScrollerBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.18-07.29.31:294][970]LightingResults: New page: Lighting Build
+[2018.12.18-07.29.31:294][970]LoadErrors: New page: Loading map: MainMenu.umap
+[2018.12.18-07.29.31:395][970]MapCheck: New page: Map Check
+[2018.12.18-07.29.31:395][970]LightingResults: New page: Lighting Build
+[2018.12.18-07.29.31:496][970]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.18-07.29.31:567][970]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.18-07.29.31:675][970]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 106,884ms to complete.
+[2018.12.18-07.29.31:675][970]LogFileHelpers: Loading map 'MainMenu' took 0.382
+[2018.12.18-07.29.34:315][236]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.18-07.29.34:340][236]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.12.18-07.29.34:340][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.18-07.29.34:340][236]PIE: New page: PIE session: MainMenu (18 déc. 2018 09:29:34)
+[2018.12.18-07.29.34:341][236]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu
+[2018.12.18-07.29.34:342][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001077s)
+[2018.12.18-07.29.34:342][236]LogAIModule: Creating AISystem for world MainMenu
+[2018.12.18-07.29.34:342][236]LogPlayLevel: PIE: World Init took: (0.000630s)
+[2018.12.18-07.29.34:342][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/MainMenu.MainMenu to /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001860s)
+[2018.12.18-07.29.34:377][236]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.18-07.29.34:392][236]LogInit: FAudioDevice initialized.
+[2018.12.18-07.29.34:400][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-07.29.34:435][236]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.12.18-07.29.34:437][236]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.12.18-08.29.34
+[2018.12.18-07.29.34:437][236]LogWorld: Bringing up level for play took: 0.000440
+[2018.12.18-07.29.34:458][236]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu 0,562
+[2018.12.18-07.29.34:458][236]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.12.18-07.29.37:398][530]LogNet: Browse: /Game/SideScrollerBP/Maps/LD_01
+[2018.12.18-07.29.37:399][530]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LD_01
+[2018.12.18-07.29.38:268][530]LogAIModule: Creating AISystem for world LD_01
+[2018.12.18-07.29.38:268][530]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.12.18-07.29.38:281][530]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01.LD_01 up for play (max tick rate 0) at 2018.12.18-08.29.38
+[2018.12.18-07.29.38:282][530]LogWorld: Bringing up level for play took: 0.010275
+[2018.12.18-07.29.38:286][530]LogLoad: Took 0.887582 seconds to LoadMap(/Game/SideScrollerBP/Maps/LD_01)
+[2018.12.18-07.29.43:233][ 42]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.12.18-07.29.43:233][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-07.29.43:255][ 42]LogSlate: Window 'Wukongpointpng Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.18-07.29.43:293][ 42]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.18-07.29.43:293][ 42]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.12.18-07.29.43:346][ 43]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.12.18-07.29.45:451][286]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.18-07.29.45:474][286]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.12.18-07.29.45:474][286]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.18-07.29.45:474][286]PIE: New page: PIE session: MainMenu (18 déc. 2018 09:29:45)
+[2018.12.18-07.29.45:474][286]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu
+[2018.12.18-07.29.45:475][286]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001200s)
+[2018.12.18-07.29.45:476][286]LogAIModule: Creating AISystem for world MainMenu
+[2018.12.18-07.29.45:476][286]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2018.12.18-07.29.45:476][286]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/MainMenu.MainMenu to /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.002060s)
+[2018.12.18-07.29.45:509][286]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.18-07.29.45:524][286]LogInit: FAudioDevice initialized.
+[2018.12.18-07.29.45:532][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-07.29.45:571][286]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.12.18-07.29.45:572][286]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.12.18-08.29.45
+[2018.12.18-07.29.45:572][286]LogWorld: Bringing up level for play took: 0.000363
+[2018.12.18-07.29.45:589][286]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu -0,308
+[2018.12.18-07.29.45:589][286]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.12.18-07.29.46:766][392]LogNet: Browse: /Game/SideScrollerBP/Maps/LD_01
+[2018.12.18-07.29.46:768][392]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LD_01
+[2018.12.18-07.29.46:943][392]LogAIModule: Creating AISystem for world LD_01
+[2018.12.18-07.29.46:944][392]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.12.18-07.29.46:949][392]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01.LD_01 up for play (max tick rate 0) at 2018.12.18-08.29.46
+[2018.12.18-07.29.46:950][392]LogWorld: Bringing up level for play took: 0.004622
+[2018.12.18-07.29.46:951][392]LogLoad: Took 0.183246 seconds to LoadMap(/Game/SideScrollerBP/Maps/LD_01)
+[2018.12.18-07.29.47:777][464]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.18-07.29.49:439][643]LogPackageName: SearchForPackageOnDisk took   0.071s, but failed to resolve None.umap.
+[2018.12.18-07.29.49:524][643]LogPackageName: SearchForPackageOnDisk took   0.084s, but failed to resolve None.umap.
+[2018.12.18-07.29.49:524][643]LogNet: Browse: /Game/SideScrollerBP/Maps/SideScrollerExampleMap
+[2018.12.18-07.29.49:524][643]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/SideScrollerBP/Maps/SideScrollerExampleMap
+[2018.12.18-07.29.49:524][643]LogNet: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/SideScrollerBP/Maps/SideScrollerExampleMap'. Shutting down PIE.
+[2018.12.18-07.29.49:524][643]PIE: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/SideScrollerBP/Maps/SideScrollerExampleMap'. Shutting down PIE.
+[2018.12.18-07.29.49:524][643]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/SideScrollerBP/Maps/SideScrollerExampleMap
+[2018.12.18-07.29.49:524][643]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/SideScrollerBP/Maps/SideScrollerExampleMap'. Shutting down PIE.
+[2018.12.18-07.29.49:524][643]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/SideScrollerBP/Maps/SideScrollerExampleMap'. Shutting down PIE.
+[2018.12.18-07.29.49:525][643]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.12.18-07.29.49:525][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-07.29.49:546][643]LogSlate: Window 'Wukongpointpng Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.18-07.29.49:584][643]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.18-07.29.49:584][643]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.12.18-07.29.49:646][644]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.12.18-07.29.54:189][173]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.18-07.29.54:211][173]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.12.18-07.29.54:211][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.18-07.29.54:211][173]PIE: New page: PIE session: MainMenu (18 déc. 2018 09:29:54)
+[2018.12.18-07.29.54:211][173]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu
+[2018.12.18-07.29.54:213][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001107s)
+[2018.12.18-07.29.54:213][173]LogAIModule: Creating AISystem for world MainMenu
+[2018.12.18-07.29.54:213][173]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2018.12.18-07.29.54:213][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/MainMenu.MainMenu to /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001861s)
+[2018.12.18-07.29.54:246][173]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.18-07.29.54:262][173]LogInit: FAudioDevice initialized.
+[2018.12.18-07.29.54:270][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-07.29.54:308][173]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.12.18-07.29.54:309][173]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.12.18-08.29.54
+[2018.12.18-07.29.54:309][173]LogWorld: Bringing up level for play took: 0.000395
+[2018.12.18-07.29.54:327][173]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu 0,431
+[2018.12.18-07.29.54:328][173]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.12.18-07.29.58:258][557]LogNet: Browse: /Game/SideScrollerBP/Maps/LD_01
+[2018.12.18-07.29.58:260][557]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LD_01
+[2018.12.18-07.29.58:431][557]LogAIModule: Creating AISystem for world LD_01
+[2018.12.18-07.29.58:431][557]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.12.18-07.29.58:435][557]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01.LD_01 up for play (max tick rate 0) at 2018.12.18-08.29.58
+[2018.12.18-07.29.58:436][557]LogWorld: Bringing up level for play took: 0.003859
+[2018.12.18-07.29.58:437][557]LogLoad: Took 0.177663 seconds to LoadMap(/Game/SideScrollerBP/Maps/LD_01)
+[2018.12.18-07.29.59:432][643]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.18-07.30.00:560][771]LogNet: Browse: /Game/SideScrollerBP/Maps/MainMenu
+[2018.12.18-07.30.00:562][771]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/MainMenu
+[2018.12.18-07.30.00:597][771]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu
+[2018.12.18-07.30.00:598][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001098s)
+[2018.12.18-07.30.00:598][771]LogAIModule: Creating AISystem for world MainMenu
+[2018.12.18-07.30.00:599][771]LogPlayLevel: PIE: World Init took: (0.000716s)
+[2018.12.18-07.30.00:599][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/MainMenu.MainMenu to /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001989s)
+[2018.12.18-07.30.00:599][771]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.12.18-07.30.00:601][771]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.12.18-08.30.00
+[2018.12.18-07.30.00:601][771]LogWorld: Bringing up level for play took: 0.000665
+[2018.12.18-07.30.00:602][771]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.12.18-07.30.00:604][771]LogLoad: Took 0.042600 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu)
+[2018.12.18-07.30.02:198][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-07.30.02:198][943]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.12.18-07.30.02:220][943]LogSlate: Window 'Wukongpointpng Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.18-07.30.02:252][943]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.18-07.30.02:252][943]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/SideScrollerBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.12.18-07.30.02:302][944]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.12.18-07.30.11:901][ 75]LogAIModule: Creating AISystem for world LD_01
+[2018.12.18-07.30.13:117][214]LogAssetEditorManager: Opening Asset editor for World /Game/SideScrollerBP/Maps/LD_01.LD_01
+[2018.12.18-07.30.13:146][214]Cmd: MAP LOAD FILE="../../../../../../Users/SizeAKAelBG/Documents/GitHubs/Projet-Unreal/Wukongpointpng/Content/SideScrollerBP/Maps/LD_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.18-07.30.13:147][214]LightingResults: New page: Lighting Build
+[2018.12.18-07.30.13:147][214]LoadErrors: New page: Loading map: LD_01.umap
+[2018.12.18-07.30.13:148][214]MapCheck: New page: Map Check
+[2018.12.18-07.30.13:148][214]LightingResults: New page: Lighting Build
+[2018.12.18-07.30.13:253][214]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.18-07.30.13:317][214]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.18-07.30.13:386][214]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 68,921ms to complete.
+[2018.12.18-07.30.13:387][214]LogFileHelpers: Loading map 'LD_01' took 0.242
+[2018.12.18-07.30.18:948][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.18-07.30.20:368][972]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.18-07.30.20:390][972]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.30.20:390][972]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.18-07.30.20:390][972]PIE: New page: PIE session: LD_01 (18 déc. 2018 09:30:20)
+[2018.12.18-07.30.20:390][972]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01
+[2018.12.18-07.30.20:407][972]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016274s)
+[2018.12.18-07.30.20:407][972]LogAIModule: Creating AISystem for world LD_01
+[2018.12.18-07.30.20:408][972]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2018.12.18-07.30.20:408][972]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LD_01.LD_01 to /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01.LD_01 (0.017259s)
+[2018.12.18-07.30.20:447][972]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.18-07.30.20:464][972]LogInit: FAudioDevice initialized.
+[2018.12.18-07.30.20:472][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-07.30.20:511][972]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.12.18-07.30.20:515][972]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01.LD_01 up for play (max tick rate 0) at 2018.12.18-08.30.20
+[2018.12.18-07.30.20:516][972]LogWorld: Bringing up level for play took: 0.002795
+[2018.12.18-07.30.20:534][972]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01 0,638
+[2018.12.18-07.30.20:534][972]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.30.36:173][676]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.30.36:173][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-07.30.36:197][676]LogSlate: Window 'Wukongpointpng Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.18-07.30.36:232][676]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.18-07.30.36:233][676]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.30.36:309][677]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.12.18-07.30.38:132][853]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.12.18-07.30.38:551][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge18)
+[2018.12.18-07.30.39:411][977]Cmd: DELETE
+[2018.12.18-07.30.39:411][977]Cmd: ACTOR DELETE
+[2018.12.18-07.30.39:414][977]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.18-07.30.39:443][977]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2018.12.18-07.30.42:322][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.18-07.30.42:364][326]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.18-07.30.42:386][326]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.30.42:386][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.18-07.30.42:386][326]PIE: New page: PIE session: LD_01 (18 déc. 2018 09:30:42)
+[2018.12.18-07.30.42:387][326]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01
+[2018.12.18-07.30.42:400][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013347s)
+[2018.12.18-07.30.42:401][326]LogAIModule: Creating AISystem for world LD_01
+[2018.12.18-07.30.42:401][326]LogPlayLevel: PIE: World Init took: (0.001135s)
+[2018.12.18-07.30.42:401][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LD_01.LD_01 to /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01.LD_01 (0.014713s)
+[2018.12.18-07.30.42:442][326]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.18-07.30.42:459][326]LogInit: FAudioDevice initialized.
+[2018.12.18-07.30.42:467][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-07.30.42:505][326]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.12.18-07.30.42:508][326]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01.LD_01 up for play (max tick rate 0) at 2018.12.18-08.30.42
+[2018.12.18-07.30.42:509][326]LogWorld: Bringing up level for play took: 0.002535
+[2018.12.18-07.30.42:526][326]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01 0,63
+[2018.12.18-07.30.42:526][326]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.30.53:740][552]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.30.53:741][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-07.30.53:762][552]LogSlate: Window 'Wukongpointpng Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.18-07.30.53:799][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.18-07.30.53:799][552]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.30.53:875][553]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.12.18-07.31.00:069][192]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2018.12.18-07.31.01:298][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.18-07.31.09:514][250]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2018.12.18-07.31.17:626][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.18-07.31.17:684][ 18]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.18-07.31.17:706][ 18]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.31.17:707][ 18]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.18-07.31.17:738][ 18]LogPlayLevel: [PlayLevel] Compiling SideScrollerCharacter before play...
+[2018.12.18-07.31.18:138][ 18]LogPlayLevel: PlayLevel: Blueprint regeneration took 431 ms (1 blueprints)
+[2018.12.18-07.31.18:138][ 18]PIE: New page: PIE session: LD_01 (18 déc. 2018 09:31:18)
+[2018.12.18-07.31.18:138][ 18]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01
+[2018.12.18-07.31.18:152][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013541s)
+[2018.12.18-07.31.18:153][ 18]LogAIModule: Creating AISystem for world LD_01
+[2018.12.18-07.31.18:153][ 18]LogPlayLevel: PIE: World Init took: (0.001474s)
+[2018.12.18-07.31.18:153][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LD_01.LD_01 to /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01.LD_01 (0.015226s)
+[2018.12.18-07.31.18:231][ 18]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.18-07.31.18:259][ 18]LogInit: FAudioDevice initialized.
+[2018.12.18-07.31.18:268][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-07.31.18:305][ 18]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.12.18-07.31.18:308][ 18]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01.LD_01 up for play (max tick rate 0) at 2018.12.18-08.31.18
+[2018.12.18-07.31.18:309][ 18]LogWorld: Bringing up level for play took: 0.002149
+[2018.12.18-07.31.18:324][ 18]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01 0,428
+[2018.12.18-07.31.18:325][ 18]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.32.29:547][877]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.32.29:547][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-07.32.29:570][877]LogSlate: Window 'Wukongpointpng Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.18-07.32.29:605][877]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.18-07.32.29:605][877]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.32.29:685][878]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2018.12.18-07.32.33:835][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.18-07.32.33:935][302]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.18-07.32.33:963][302]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.32.33:963][302]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.18-07.32.33:991][302]LogPlayLevel: [PlayLevel] Compiling SideScrollerCharacter before play...
+[2018.12.18-07.32.34:226][302]LogPlayLevel: PlayLevel: Blueprint regeneration took 263 ms (1 blueprints)
+[2018.12.18-07.32.34:226][302]PIE: New page: PIE session: LD_01 (18 déc. 2018 09:32:34)
+[2018.12.18-07.32.34:226][302]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01
+[2018.12.18-07.32.34:239][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013006s)
+[2018.12.18-07.32.34:240][302]LogAIModule: Creating AISystem for world LD_01
+[2018.12.18-07.32.34:241][302]LogPlayLevel: PIE: World Init took: (0.001048s)
+[2018.12.18-07.32.34:241][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LD_01.LD_01 to /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01.LD_01 (0.014325s)
+[2018.12.18-07.32.34:284][302]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.18-07.32.34:300][302]LogInit: FAudioDevice initialized.
+[2018.12.18-07.32.34:308][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-07.32.34:347][302]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.12.18-07.32.34:351][302]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01.LD_01 up for play (max tick rate 0) at 2018.12.18-08.32.34
+[2018.12.18-07.32.34:352][302]LogWorld: Bringing up level for play took: 0.003375
+[2018.12.18-07.32.34:367][302]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01 0,471
+[2018.12.18-07.32.34:367][302]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.33.03:178][433]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.33.03:179][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-07.33.03:201][433]LogSlate: Window 'Wukongpointpng Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.18-07.33.03:236][433]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.18-07.33.03:237][433]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.33.03:315][434]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2018.12.18-07.34.00:353][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.18-07.34.00:428][ 31]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.18-07.34.00:451][ 31]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.34.00:452][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.18-07.34.00:452][ 31]PIE: New page: PIE session: LD_01 (18 déc. 2018 09:34:00)
+[2018.12.18-07.34.00:452][ 31]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01
+[2018.12.18-07.34.00:463][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011128s)
+[2018.12.18-07.34.00:464][ 31]LogAIModule: Creating AISystem for world LD_01
+[2018.12.18-07.34.00:464][ 31]LogPlayLevel: PIE: World Init took: (0.001257s)
+[2018.12.18-07.34.00:465][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LD_01.LD_01 to /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01.LD_01 (0.012706s)
+[2018.12.18-07.34.00:508][ 31]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.18-07.34.00:523][ 31]LogInit: FAudioDevice initialized.
+[2018.12.18-07.34.00:530][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-07.34.00:565][ 31]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.12.18-07.34.00:568][ 31]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01.LD_01 up for play (max tick rate 0) at 2018.12.18-08.34.00
+[2018.12.18-07.34.00:568][ 31]LogWorld: Bringing up level for play took: 0.002033
+[2018.12.18-07.34.00:584][ 31]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01 0,688
+[2018.12.18-07.34.00:584][ 31]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.35.06:771][549]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.35.06:772][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-07.35.06:793][549]LogSlate: Window 'Wukongpointpng Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.18-07.35.06:832][549]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.18-07.35.06:832][549]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.35.06:914][550]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2018.12.18-07.35.08:470][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge15)
+[2018.12.18-07.35.10:086][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.18-07.35.10:588][970]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.18-07.35.10:607][970]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.35.10:607][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.18-07.35.10:607][970]PIE: New page: PIE session: LD_01 (18 déc. 2018 09:35:10)
+[2018.12.18-07.35.10:607][970]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01
+[2018.12.18-07.35.10:618][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010795s)
+[2018.12.18-07.35.10:619][970]LogAIModule: Creating AISystem for world LD_01
+[2018.12.18-07.35.10:620][970]LogPlayLevel: PIE: World Init took: (0.001315s)
+[2018.12.18-07.35.10:620][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LD_01.LD_01 to /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01.LD_01 (0.012335s)
+[2018.12.18-07.35.10:658][970]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.18-07.35.10:674][970]LogInit: FAudioDevice initialized.
+[2018.12.18-07.35.10:681][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-07.35.10:720][970]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.12.18-07.35.10:723][970]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01.LD_01 up for play (max tick rate 0) at 2018.12.18-08.35.10
+[2018.12.18-07.35.10:723][970]LogWorld: Bringing up level for play took: 0.002520
+[2018.12.18-07.35.10:739][970]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_LD_01 0,843
+[2018.12.18-07.35.10:739][970]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.35.24:647][532]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.35.24:647][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-07.35.24:669][532]LogSlate: Window 'Wukongpointpng Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.18-07.35.24:707][532]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.18-07.35.24:707][532]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01' with GeneratedClass '/Game/SideScrollerBP/Maps/LD_01.LD_01_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LD_01.LD_01:PersistentLevel.LD_01'
+[2018.12.18-07.35.24:784][533]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2018.12.18-07.36.15:370][580]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.18-07.36.18:796][681]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.323 s
+[2018.12.18-07.36.18:796][681]LogOutputDevice: Error: === Handled ensure: ===
+[2018.12.18-07.36.18:796][681]LogOutputDevice: Error: 
+[2018.12.18-07.36.18:796][681]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2103]
+[2018.12.18-07.36.18:796][681]LogOutputDevice: Error: 
+[2018.12.18-07.36.18:796][681]LogOutputDevice: Error: Stack: 
+[2018.12.18-07.36.18:797][681]LogOutputDevice: Error: [Callstack] 0x00007ff9a49c71f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.18-07.36.18:797][681]LogOutputDevice: Error: [Callstack] 0x00007ff9a4700c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.18-07.36.18:797][681]LogOutputDevice: Error: [Callstack] 0x00007ff9a471b356 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.18-07.36.18:797][681]LogOutputDevice: Error: [Callstack] 0x00007ff99006f1e8 UE4Editor-Engine.dll!UnknownFunction []
+[2018.12.18-07.36.18:797][681]LogOutputDevice: Error: [Callstack] 0x00007ff986b24c25 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.18-07.36.18:797][681]LogOutputDevice: Error: [Callstack] 0x00007ff986b501fb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.18-07.36.18:797][681]LogOutputDevice: Error: [Callstack] 0x00007ff986b36535 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.18-07.36.18:797][681]LogOutputDevice: Error: [Callstack] 0x00007ff986ba2dc5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.18-07.36.18:797][681]LogOutputDevice: Error: [Callstack] 0x00007ff986be99f1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.18-07.36.18:797][681]LogOutputDevice: Error: [Callstack] 0x00007ff986b7c81f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.18-07.36.18:797][681]LogOutputDevice: Error: [Callstack] 0x00007ff9957b05b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.18-07.36.18:797][681]LogOutputDevice: Error: [Callstack] 0x00007ff9a7b124df UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.18-07.36.18:797][681]LogOutputDevice: Error: [Callstack] 0x00007ff9a7b5437e UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.18-07.36.18:797][681]LogOutputDevice: Error: [Callstack] 0x00007ff9871b5178 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.18-07.36.18:797][681]LogOutputDevice: Error: [Callstack] 0x00007ff9a7ad70ac UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.18-07.36.18:797][681]LogOutputDevice: Error: [Callstack] 0x00007ff9a7b5606c UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.18-07.36.18:797][681]LogOutputDevice: Error: [Callstack] 0x00007ff9a7b49846 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.18-07.36.18:797][681]LogOutputDevice: Error: [Callstack] 0x00007ff9b97ece45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.18-07.36.18:797][681]LogOutputDevice: Error: [Callstack] 0x00007ff9b97e0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.18-07.36.18:797][681]LogOutputDevice: Error: [Callstack] 0x00007ff9b97ef4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.18-07.36.18:797][681]LogOutputDevice: Error: [Callstack] 0x00007ff9b97dc209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.18-07.36.18:797][681]LogOutputDevice: Error: [Callstack] 0x00007ff9e0a66d41 USER32.dll!UnknownFunction []
+[2018.12.18-07.36.18:797][681]LogOutputDevice: Error: [Callstack] 0x00007ff9e0a66713 USER32.dll!UnknownFunction []
+[2018.12.18-07.36.18:797][681]LogOutputDevice: Error: [Callstack] 0x00007ff9b97f0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.18-07.36.18:797][681]LogOutputDevice: Error: [Callstack] 0x00007ff78e5554e5 UE4Editor.exe!UnknownFunction []
+[2018.12.18-07.36.18:797][681]LogOutputDevice: Error: [Callstack] 0x00007ff78e565b3c UE4Editor.exe!UnknownFunction []
+[2018.12.18-07.36.18:797][681]LogOutputDevice: Error: [Callstack] 0x00007ff78e565bba UE4Editor.exe!UnknownFunction []
+[2018.12.18-07.36.18:797][681]LogOutputDevice: Error: [Callstack] 0x00007ff78e573dac UE4Editor.exe!UnknownFunction []
+[2018.12.18-07.36.18:797][681]LogOutputDevice: Error: [Callstack] 0x00007ff78e575aaa UE4Editor.exe!UnknownFunction []
+[2018.12.18-07.36.18:797][681]LogOutputDevice: Error: [Callstack] 0x00007ff9e2343034 KERNEL32.DLL!UnknownFunction []
+[2018.12.18-07.36.18:797][681]LogOutputDevice: Error: [Callstack] 0x00007ff9e2f73691 ntdll.dll!UnknownFunction []
+[2018.12.18-07.36.18:797][681]LogOutputDevice: Error: 
+[2018.12.18-07.36.18:801][681]LogStats:                SubmitErrorReport -  0.000 s
