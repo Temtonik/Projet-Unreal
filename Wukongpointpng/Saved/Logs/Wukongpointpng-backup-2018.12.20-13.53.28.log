@@ -1,0 +1,415 @@
+﻿Log file open, 12/20/18 13:10:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Wukongpointpng
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.809390
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.210s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.007s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.20-12.10.22:875][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.20-12.10.22:875][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.20-12.10.22:914][  0]LogHAL: Display: Platform has ~ 16 GB [17059442688 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.20-12.10.22:914][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.20-12.10.22:914][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.20-12.10.22:923][  0]LogInit: Computer: MSI
+[2018.12.20-12.10.22:923][  0]LogInit: User: Maxime
+[2018.12.20-12.10.22:923][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.20-12.10.22:923][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2018.12.20-12.10.22:924][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.20-12.10.22:924][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.20-12.10.22:924][  0]LogMemory: Process Physical Memory: 101.04 MB used, 101.04 MB peak
+[2018.12.20-12.10.22:924][  0]LogMemory: Process Virtual Memory: 89.37 MB used, 89.37 MB peak
+[2018.12.20-12.10.22:924][  0]LogMemory: Physical Memory: 9337.23 MB used,  6931.92 MB free, 16269.15 MB total
+[2018.12.20-12.10.22:924][  0]LogMemory: Virtual Memory: 4638.88 MB used,  6931.92 MB free, 134217728.00 MB total
+[2018.12.20-12.10.24:795][  0]LogInit: Using OS detected language (fr-FR).
+[2018.12.20-12.10.24:795][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.12.20-12.10.24:879][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2018.12.20-12.10.25:034][  0]LogStreaming: Display: Took  0.239s to InitEngineTextLocalization.
+[2018.12.20-12.10.25:034][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.20-12.10.25:465][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.20-12.10.25:466][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.20-12.10.29:037][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.20-12.10.29:037][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.20-12.10.29:797][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.12.20-12.10.29:797][  0]LogD3D11RHI:       2987/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.20-12.10.29:812][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.12.20-12.10.29:812][  0]LogD3D11RHI:       128/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.12.20-12.10.29:816][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.20-12.10.29:816][  0]LogD3D11RHI:       0/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.20-12.10.29:816][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.20-12.10.29:853][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.20-12.10.29:853][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.20-12.10.29:853][  0]LogWindows: EnumDisplayDevices:
+[2018.12.20-12.10.29:854][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.12.20-12.10.29:854][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.12.20-12.10.29:855][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.12.20-12.10.29:855][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.12.20-12.10.29:855][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.12.20-12.10.29:856][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.12.20-12.10.29:856][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.12.20-12.10.29:856][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.12.20-12.10.29:856][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.12.20-12.10.29:856][  0]LogD3D11RHI:   Driver Version: 416.94 (internal:25.21.14.1694, unified:416.94)
+[2018.12.20-12.10.29:856][  0]LogD3D11RHI:      Driver Date: 11-12-2018
+[2018.12.20-12.10.29:856][  0]LogRHI: Texture pool is 2090 MB (70% of 2987 MB)
+[2018.12.20-12.10.29:913][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.20-12.10.30:001][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.20-12.10.30:007][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Intermediate/Shaders/WorkingDirectory/15452/).
+[2018.12.20-12.10.30:007][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Maxime/AppData/Local/Temp/UnrealShaderWorkingDir/1ADA4E3B42C5B4BBE0286580540974EF/'.
+[2018.12.20-12.10.30:849][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.20-12.10.30:917][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.20-12.10.30:944][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.20-12.10.30:969][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.20-12.10.31:014][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.20-12.10.31:052][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.20-12.10.31:078][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.20-12.10.31:104][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.20-12.10.31:129][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.20-12.10.31:328][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-12.10.31:328][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-12.10.31:328][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-12.10.31:328][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-12.10.31:328][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-12.10.31:328][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-12.10.31:328][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-12.10.31:328][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-12.10.31:328][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-12.10.31:328][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-12.10.31:328][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-12.10.31:328][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-12.10.31:328][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-12.10.31:328][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-12.10.31:328][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-12.10.31:328][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-12.10.31:328][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-12.10.31:328][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-12.10.31:351][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.20-12.10.31:512][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.20-12.10.31:512][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.20-12.10.31:576][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.20-12.10.31:576][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.20-12.10.31:611][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.20-12.10.31:637][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.20-12.10.31:675][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.20-12.10.31:783][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.20-12.10.31:891][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.20-12.10.31:891][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.20-12.10.33:751][  0]LogXGEController: Cleaning working directory: C:/Users/Maxime/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.20-12.10.33:751][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.20-12.10.33:751][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.20-12.10.33:751][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.20-12.10.36:890][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.20-12.10.37:414][  0]LogDerivedDataCache: Loaded boot cache 0.52s 71MB C:/Users/Maxime/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.20-12.10.37:415][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Maxime/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.20-12.10.37:415][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.20-12.10.37:415][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.20-12.10.37:416][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.20-12.10.37:416][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.20-12.10.37:496][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.20-12.10.37:509][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Maxime/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.20-12.10.37:509][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.20-12.10.37:509][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.20-12.10.37:554][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.20-12.10.37:557][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.20-12.10.37:667][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.20-12.10.38:426][  0]LogAssetRegistry: FAssetRegistry took 0.0331 seconds to start up
+[2018.12.20-12.10.38:847][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.20-12.10.40:222][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.20-12.10.40:506][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.20-12.10.40:506][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.20-12.10.40:506][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.20-12.10.40:506][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.20-12.10.40:669][  0]LogNetVersion: Wukongpointpng 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4139426139)
+[2018.12.20-12.10.42:941][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.138379 seconds
+[2018.12.20-12.10.42:948][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.12.20-12.10.42:948][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.12.20-12.10.42:948][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.20-12.10.58:530][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.20-12.10.58:583][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.20-12.10.59:826][  0]SourceControl: Source control is disabled
+[2018.12.20-12.10.59:826][  0]SourceControl: Source control is disabled
+[2018.12.20-12.10.59:992][  0]SourceControl: Source control is disabled
+[2018.12.20-12.11.00:038][  0]SourceControl: Source control is disabled
+[2018.12.20-12.11.02:510][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.20-12.11.02:972][  0]LogOcInput: OculusInput pre-init called
+[2018.12.20-12.11.03:323][  0]LogEngine: Initializing Engine...
+[2018.12.20-12.11.03:324][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.20-12.11.03:326][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.20-12.11.03:326][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.20-12.11.03:326][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.20-12.11.03:326][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.20-12.11.03:699][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.20-12.11.03:968][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.20-12.11.04:007][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.12.20-12.11.04:284][  0]LogInit: FAudioDevice initialized.
+[2018.12.20-12.11.04:285][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.20-12.11.04:422][  0]LogDerivedDataCache: Saved boot cache 0.14s 71MB C:/Users/Maxime/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.20-12.11.04:437][  0]LogInit: Texture streaming: Enabled
+[2018.12.20-12.11.04:557][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.20-12.11.04:558][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={D493AE2D-4653-1267-231F-82B527EADF16}
+[2018.12.20-12.11.04:589][  0]LogInit: Transaction tracking system initialized
+[2018.12.20-12.11.04:732][  0]BlueprintLog: New page: Editor Load
+[2018.12.20-12.11.05:608][  0]LocalizationService: Localization service is disabled
+[2018.12.20-12.11.07:112][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.20-12.11.07:112][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.20-12.11.07:112][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.20-12.11.07:112][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.20-12.11.07:112][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.20-12.11.07:112][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.20-12.11.07:112][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.20-12.11.07:123][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/' took 0.03s
+[2018.12.20-12.11.09:497][  0]SourceControl: Source control is disabled
+[2018.12.20-12.11.09:497][  0]Cmd: MAP LOAD FILE="C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.20-12.11.09:497][  0]LightingResults: New page: Lighting Build
+[2018.12.20-12.11.09:500][  0]MapCheck: New page: Map Check
+[2018.12.20-12.11.09:500][  0]LightingResults: New page: Lighting Build
+[2018.12.20-12.11.10:464][  0]LogTexture: Display: Building textures: T_Wolf_Black (AutoDXT, 128X64)
+[2018.12.20-12.11.10:464][  0]LogTexture: Display: Building textures: T_WhiteTexture (AutoDXT, 64X64)
+[2018.12.20-12.11.10:639][  0]LogMaterial: Display: Missing cached shader map for material Mat_Ground, compiling. 
+[2018.12.20-12.11.10:758][  0]LogSkeletalMesh: Building Skeletal Mesh SK_WolfMagic...
+[2018.12.20-12.11.10:763][  0]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/PolyArtWolf/Meshes/SK_WolfMagic.SK_WolfMagic
+[2018.12.20-12.11.10:768][  0]LogShaderCompilers: Display: Shaders left to compile 107
+[2018.12.20-12.11.10:768][  0]LogShaderCompilers: Display: Shaders left to compile 97
+[2018.12.20-12.11.10:768][  0]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.12.20-12.11.10:768][  0]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.12.20-12.11.10:768][  0]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.12.20-12.11.10:768][  0]LogMaterial: Display: Missing cached shader map for material Mat_Magic, compiling. 
+[2018.12.20-12.11.10:833][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PolyArtWolf/Animations/InPlace/Wolf_IP_Run_Forward.Wolf_IP_Run_Forward
+[2018.12.20-12.11.10:833][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/PolyArtWolf/Animations/InPlace/Wolf_IP_Run_Forward.Wolf_IP_Run_Forward) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.20-12.11.12:665][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.12.20-12.11.12:757][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.20-12.11.12:823][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.20-12.11.12:915][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 91,835ms to complete.
+[2018.12.20-12.11.12:915][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 3.419
+[2018.12.20-12.11.13:173][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.20-12.11.13:185][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.20-12.11.13:195][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.20-12.11.13:207][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.20-12.11.13:249][  0]LogCollectionManager: Loaded 0 collections in 0.001654 seconds
+[2018.12.20-12.11.13:294][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Saved/Collections/' took 0.01s
+[2018.12.20-12.11.13:294][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Developers/Maxime/Collections/' took 0.01s
+[2018.12.20-12.11.13:294][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Collections/' took 0.01s
+[2018.12.20-12.11.13:294][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.12.20-12.11.13:310][  0]LogContentBrowser: Native class hierarchy populated in 0.0156 seconds. Added 2572 classes and 603 folders.
+[2018.12.20-12.11.13:317][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.20-12.11.14:257][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.12.20-12.11.14:304][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.12.20-12.11.14:568][  0]LogSlate: Took 0.022421 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.20-12.11.14:603][  0]LogSlate: Took 0.032435 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.20-12.11.14:627][  0]LogSlate: Took 0.014635 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.20-12.11.14:832][  0]LogRenderer: Reallocating scene render targets to support 904x312 Format 10 NumSamples 1 (Frame:1).
+[2018.12.20-12.11.15:221][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.12.20-12.11.15:221][  0]LogLoad: (Engine Initialization) Total time: 72.44 seconds
+[2018.12.20-12.11.15:221][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.20-12.11.15:280][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.20-12.11.15:409][  0]LogSlate: Took 0.034476 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.20-12.11.15:449][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/' took 0.19s
+[2018.12.20-12.11.15:797][  3]LogAssetRegistry: Asset discovery search completed in 37.3963 seconds
+[2018.12.20-12.11.15:802][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.12.20-12.11.15:802][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000142 seconds (updated 0 objects)
+[2018.12.20-12.11.16:314][ 24]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.20-12.11.17:118][ 63]LogShaderCompilers: Display: Shaders left to compile 155
+[2018.12.20-12.11.18:514][137]LogShaderCompilers: Display: Shaders left to compile 145
+[2018.12.20-12.11.19:964][216]LogShaderCompilers: Display: Shaders left to compile 135
+[2018.12.20-12.11.20:059][222]LogShaderCompilers: Display: Shaders left to compile 125
+[2018.12.20-12.11.21:578][316]LogShaderCompilers: Display: Shaders left to compile 115
+[2018.12.20-12.11.23:459][428]LogShaderCompilers: Display: Shaders left to compile 105
+[2018.12.20-12.11.24:134][469]LogShaderCompilers: Display: Shaders left to compile 95
+[2018.12.20-12.11.24:445][489]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.12.20-12.11.25:792][568]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.12.20-12.11.27:621][682]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.12.20-12.11.27:780][692]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.12.20-12.11.28:942][761]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.12.20-12.11.29:725][809]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.20-12.11.31:722][930]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.20-12.11.31:930][943]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.20-12.11.33:109][ 17]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.20-12.11.50:092][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.20-12.29.12:200][856]AssetReimport: New page: Detailed File System Changes from 13:29:12
+[2018.12.20-12.29.12:219][856]AssetReimport: 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/appeldelaforet.wav' has been created.
+[2018.12.20-12.29.12:219][856]AssetReimport: 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/boomerang sound.wav' has been created.
+[2018.12.20-12.29.12:219][856]AssetReimport: 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/bruit de pas.wav' has been created.
+[2018.12.20-12.29.12:219][856]AssetReimport: 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/collectible v1.wav' has been created.
+[2018.12.20-12.29.12:219][856]AssetReimport: 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/coup de base v1.wav' has been created.
+[2018.12.20-12.29.12:219][856]AssetReimport: 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/increase speed.wav' has been created.
+[2018.12.20-12.29.12:219][856]AssetReimport: 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/saut v1.wav' has been created.
+[2018.12.20-12.29.12:219][856]AssetReimport: 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/teleport1.wav' has been created.
+[2018.12.20-12.29.15:162][127]LogSlate: Window 'Message Log' being destroyed
+[2018.12.20-12.29.15:177][127]LogSlate: Window 'Message Log' being destroyed
+[2018.12.20-12.29.16:078][227]AssetReimport: New page: Outstanding source content changes 14:29:16
+[2018.12.20-12.29.16:081][227]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/appeldelaforet.wav)
+[2018.12.20-12.29.16:103][228]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/boomerang sound.wav)
+[2018.12.20-12.29.16:107][228]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/bruit de pas.wav)
+[2018.12.20-12.29.16:113][228]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/collectible v1.wav)
+[2018.12.20-12.29.16:116][228]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/coup de base v1.wav)
+[2018.12.20-12.29.16:132][229]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/increase speed.wav)
+[2018.12.20-12.29.16:138][229]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/saut v1.wav)
+[2018.12.20-12.29.16:143][229]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/teleport1.wav)
+[2018.12.20-12.29.16:202][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/appeldelaforet" FILE="C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/appeldelaforet.uasset" SILENT=true
+[2018.12.20-12.29.16:215][229]LogSavePackage: Moving 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Saved/appeldelaforet3C6823C648FA50CEE808CD998C414417.tmp' to 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/appeldelaforet.uasset'
+[2018.12.20-12.29.16:245][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/boomerang_sound" FILE="C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/boomerang_sound.uasset" SILENT=true
+[2018.12.20-12.29.16:256][229]LogSavePackage: Moving 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Saved/boomerang_sound1B50D6E34561C851356CE191D7FFC079.tmp' to 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/boomerang_sound.uasset'
+[2018.12.20-12.29.16:304][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/bruit_de_pas" FILE="C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/bruit_de_pas.uasset" SILENT=true
+[2018.12.20-12.29.16:317][229]LogSavePackage: Moving 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Saved/bruit_de_pasFBD7209A4439D4BAC3490DA123DD4785.tmp' to 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/bruit_de_pas.uasset'
+[2018.12.20-12.29.16:353][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/collectible_v1" FILE="C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/collectible_v1.uasset" SILENT=true
+[2018.12.20-12.29.16:364][229]LogSavePackage: Moving 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Saved/collectible_v1B7A264F045E6B754B2E8F2ACDC4B9AC4.tmp' to 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/collectible_v1.uasset'
+[2018.12.20-12.29.16:401][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/coup_de_base_v1" FILE="C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/coup_de_base_v1.uasset" SILENT=true
+[2018.12.20-12.29.16:413][229]LogSavePackage: Moving 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Saved/coup_de_base_v165AE2A7949D173BD7E52B2B275970056.tmp' to 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/coup_de_base_v1.uasset'
+[2018.12.20-12.29.16:446][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/increase_speed" FILE="C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/increase_speed.uasset" SILENT=true
+[2018.12.20-12.29.16:458][229]LogSavePackage: Moving 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Saved/increase_speed0CE8462747383CD1971FCDAADCACAED6.tmp' to 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/increase_speed.uasset'
+[2018.12.20-12.29.16:493][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/saut_v1" FILE="C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/saut_v1.uasset" SILENT=true
+[2018.12.20-12.29.16:504][229]LogSavePackage: Moving 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Saved/saut_v11BBB30504DA190FF5B8B41A682C6BF41.tmp' to 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/saut_v1.uasset'
+[2018.12.20-12.29.16:535][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/teleport1" FILE="C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/teleport1.uasset" SILENT=true
+[2018.12.20-12.29.16:549][229]LogSavePackage: Moving 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Saved/teleport1E27EE7624FB0476A04B367ACFBAD8103.tmp' to 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/teleport1.uasset'
+[2018.12.20-12.29.19:576][579]AssetReimport: Importing new asset /Game/Sound/appeldelaforet.
+[2018.12.20-12.29.19:576][579]AssetReimport: Importing new asset /Game/Sound/boomerang_sound.
+[2018.12.20-12.29.19:576][579]AssetReimport: Importing new asset /Game/Sound/bruit_de_pas.
+[2018.12.20-12.29.19:576][579]AssetReimport: Importing new asset /Game/Sound/collectible_v1.
+[2018.12.20-12.29.19:576][579]AssetReimport: Importing new asset /Game/Sound/coup_de_base_v1.
+[2018.12.20-12.29.19:576][579]AssetReimport: Importing new asset /Game/Sound/increase_speed.
+[2018.12.20-12.29.19:576][579]AssetReimport: Importing new asset /Game/Sound/saut_v1.
+[2018.12.20-12.29.19:576][579]AssetReimport: Importing new asset /Game/Sound/teleport1.
