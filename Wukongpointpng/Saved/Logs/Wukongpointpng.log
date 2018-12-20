@@ -413,3 +413,59 @@ LogInit: Object subsystem initialized
 [2018.12.20-12.29.19:576][579]AssetReimport: Importing new asset /Game/Sound/increase_speed.
 [2018.12.20-12.29.19:576][579]AssetReimport: Importing new asset /Game/Sound/saut_v1.
 [2018.12.20-12.29.19:576][579]AssetReimport: Importing new asset /Game/Sound/teleport1.
+[2018.12.20-12.31.47:779][552]AssetReimport: New page: Outstanding source content changes 14:31:47
+[2018.12.20-12.31.47:781][552]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/boomerangsound2.0.wav)
+[2018.12.20-12.31.47:843][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/boomerangsound2_0" FILE="C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/boomerangsound2_0.uasset" SILENT=true
+[2018.12.20-12.31.47:853][552]LogSavePackage: Moving 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Saved/boomerangsound2_0B47FCCFD4AEC0F273AFD1585DF1AAFA3.tmp' to 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/boomerangsound2_0.uasset'
+[2018.12.20-12.31.50:871][881]AssetReimport: Importing new asset /Game/Sound/boomerangsound2_0.
+[2018.12.20-12.31.55:857][399]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave appeldelaforet...
+[2018.12.20-12.31.55:857][399]LogTemp: Couldn't find amount to resample to.
+[2018.12.20-12.31.55:904][399]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 360384 while cooking SoundWave /Game/Sound/appeldelaforet.appeldelaforet.
+[2018.12.20-12.31.57:412][564]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave boomerang_sound...
+[2018.12.20-12.31.57:412][564]LogTemp: Couldn't find amount to resample to.
+[2018.12.20-12.31.57:424][564]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 53156 while cooking SoundWave /Game/Sound/boomerang_sound.boomerang_sound.
+[2018.12.20-12.31.58:791][711]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave boomerangsound2_0...
+[2018.12.20-12.31.58:792][711]LogTemp: Couldn't find amount to resample to.
+[2018.12.20-12.31.58:802][711]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 59148 while cooking SoundWave /Game/Sound/boomerangsound2_0.boomerangsound2_0.
+[2018.12.20-12.32.00:682][915]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave bruit_de_pas...
+[2018.12.20-12.32.00:682][915]LogTemp: Couldn't find amount to resample to.
+[2018.12.20-12.32.00:716][915]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 175332 while cooking SoundWave /Game/Sound/bruit_de_pas.bruit_de_pas.
+[2018.12.20-12.32.02:344][ 94]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave collectible_v1...
+[2018.12.20-12.32.02:344][ 94]LogTemp: Couldn't find amount to resample to.
+[2018.12.20-12.32.02:361][ 94]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 43380 while cooking SoundWave /Game/Sound/collectible_v1.collectible_v1.
+[2018.12.20-12.32.03:298][193]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave coup_de_base_v1...
+[2018.12.20-12.32.03:298][193]LogTemp: Couldn't find amount to resample to.
+[2018.12.20-12.32.03:310][193]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 40972 while cooking SoundWave /Game/Sound/coup_de_base_v1.coup_de_base_v1.
+[2018.12.20-12.32.05:416][422]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave increase_speed...
+[2018.12.20-12.32.05:417][422]LogTemp: Couldn't find amount to resample to.
+[2018.12.20-12.32.05:449][422]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 109256 while cooking SoundWave /Game/Sound/increase_speed.increase_speed.
+[2018.12.20-12.32.08:329][755]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave saut_v1...
+[2018.12.20-12.32.08:329][755]LogTemp: Couldn't find amount to resample to.
+[2018.12.20-12.32.08:361][755]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 174176 while cooking SoundWave /Game/Sound/saut_v1.saut_v1.
+[2018.12.20-12.32.09:858][925]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave teleport1...
+[2018.12.20-12.32.09:858][925]LogTemp: Couldn't find amount to resample to.
+[2018.12.20-12.32.09:885][925]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 160112 while cooking SoundWave /Game/Sound/teleport1.teleport1.
+[2018.12.20-12.33.50:086][920]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Pillar8)
+[2018.12.20-12.33.50:349][920]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.20-12.34.46:663][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.20-12.34.46:803][605]AssetReimport: New page: Outstanding source content changes 14:34:46
+[2018.12.20-12.34.46:804][605]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/teleport2.0.wav)
+[2018.12.20-12.34.46:859][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/teleport2_0" FILE="C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/teleport2_0.uasset" SILENT=true
+[2018.12.20-12.34.46:871][605]LogSavePackage: Moving 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Saved/teleport2_0D33716AB4C221561A87987A0F4FF8614.tmp' to 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/teleport2_0.uasset'
+[2018.12.20-12.34.49:467][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.20-12.34.49:604][858]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave teleport2_0...
+[2018.12.20-12.34.49:604][858]LogTemp: Couldn't find amount to resample to.
+[2018.12.20-12.34.49:637][858]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 160364 while cooking SoundWave /Game/Sound/teleport2_0.teleport2_0.
+[2018.12.20-12.34.49:895][878]AssetReimport: Importing new asset /Game/Sound/teleport2_0.
+[2018.12.20-12.35.34:236][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.20-12.56.08:071][893]LogSlate: Took 0.050823 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.20-12.56.14:911][176]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.20-12.57.32:503][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.20-12.58.24:045][137]AssetReimport: New page: Outstanding source content changes 14:58:24
+[2018.12.20-12.58.24:047][137]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/healsound.wav)
+[2018.12.20-12.58.24:109][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/healsound" FILE="C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/healsound.uasset" SILENT=true
+[2018.12.20-12.58.24:120][137]LogSavePackage: Moving 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Saved/healsoundEFBE77E9458856F63EBE4495C5885C87.tmp' to 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/healsound.uasset'
+[2018.12.20-12.58.25:241][222]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave healsound...
+[2018.12.20-12.58.25:241][222]LogTemp: Couldn't find amount to resample to.
+[2018.12.20-12.58.25:273][222]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 188928 while cooking SoundWave /Game/Sound/healsound.healsound.
+[2018.12.20-12.58.27:143][423]AssetReimport: Importing new asset /Game/Sound/healsound.
