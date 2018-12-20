@@ -469,3 +469,11 @@ LogInit: Object subsystem initialized
 [2018.12.20-12.58.25:241][222]LogTemp: Couldn't find amount to resample to.
 [2018.12.20-12.58.25:273][222]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 188928 while cooking SoundWave /Game/Sound/healsound.healsound.
 [2018.12.20-12.58.27:143][423]AssetReimport: Importing new asset /Game/Sound/healsound.
+[2018.12.20-13.21.57:427][343]AssetReimport: New page: Outstanding source content changes 15:21:57
+[2018.12.20-13.21.57:428][343]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/DeathOfDog.wav)
+[2018.12.20-13.21.57:494][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/DeathOfDog" FILE="C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/DeathOfDog.uasset" SILENT=true
+[2018.12.20-13.21.57:506][343]LogSavePackage: Moving 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Saved/DeathOfDog1500BF0E4240EE6755E641A692EFBFEA.tmp' to 'C:/Users/Maxime/Documents/GitHub/Projet-Unreal/Wukongpointpng/Content/Sound/DeathOfDog.uasset'
+[2018.12.20-13.21.58:583][405]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave DeathOfDog...
+[2018.12.20-13.21.58:583][405]LogTemp: Couldn't find amount to resample to.
+[2018.12.20-13.21.58:590][405]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 21866 while cooking SoundWave /Game/Sound/DeathOfDog.DeathOfDog.
+[2018.12.20-13.22.00:531][521]AssetReimport: Importing new asset /Game/Sound/DeathOfDog.
