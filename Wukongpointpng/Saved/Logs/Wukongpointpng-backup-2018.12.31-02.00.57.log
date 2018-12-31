@@ -1,0 +1,1209 @@
+﻿Log file open, 12/30/18 19:57:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Wukongpointpng
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.296021
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.145s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: NVIDIA GeForce GTX 970M
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.30-18.57.39:121][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.30-18.57.39:121][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.30-18.57.39:130][  0]LogHAL: Display: Platform has ~ 8 GB [8522620928 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.30-18.57.39:130][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.30-18.57.39:130][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.30-18.57.39:131][  0]LogInit: Computer: DESKTOP-22TEGNE
+[2018.12.30-18.57.39:131][  0]LogInit: User: Tom
+[2018.12.30-18.57.39:131][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.30-18.57.39:131][  0]LogInit: High frequency timer resolution =2.531251 MHz
+[2018.12.30-18.57.39:131][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.12.30-18.57.39:131][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.30-18.57.39:131][  0]LogMemory: Process Physical Memory: 101.50 MB used, 101.50 MB peak
+[2018.12.30-18.57.39:131][  0]LogMemory: Process Virtual Memory: 94.44 MB used, 94.44 MB peak
+[2018.12.30-18.57.39:131][  0]LogMemory: Physical Memory: 3451.89 MB used,  4675.91 MB free, 8127.80 MB total
+[2018.12.30-18.57.39:131][  0]LogMemory: Virtual Memory: 4634.42 MB used,  4675.91 MB free, 134217728.00 MB total
+[2018.12.30-18.57.39:156][  0]LogInit: Using OS detected language (fr-FR).
+[2018.12.30-18.57.39:156][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.12.30-18.57.39:157][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2018.12.30-18.57.39:160][  0]LogStreaming: Display: Took  0.004s to InitEngineTextLocalization.
+[2018.12.30-18.57.39:160][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.30-18.57.39:204][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.30-18.57.39:204][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.30-18.57.39:479][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2018.12.30-18.57.39:479][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.30-18.57.39:558][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970M' (Feature Level 11_0)
+[2018.12.30-18.57.39:558][  0]LogD3D11RHI:       3029/0/4063 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.30-18.57.39:561][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.30-18.57.39:561][  0]LogD3D11RHI:       0/0/4063 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.30-18.57.39:561][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.30-18.57.39:567][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.30-18.57.39:567][  0]LogD3D11RHI:     GPU DeviceId: 0x1618 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.30-18.57.39:567][  0]LogWindows: EnumDisplayDevices:
+[2018.12.30-18.57.39:567][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970M' (P:1 D:1)
+[2018.12.30-18.57.39:568][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970M' (P:0 D:0)
+[2018.12.30-18.57.39:568][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970M' (P:0 D:0)
+[2018.12.30-18.57.39:568][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970M' (P:0 D:0)
+[2018.12.30-18.57.39:569][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.30-18.57.39:569][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970M
+[2018.12.30-18.57.39:569][  0]LogD3D11RHI:   Driver Version: 417.22 (internal:25.21.14.1722, unified:417.22)
+[2018.12.30-18.57.39:569][  0]LogD3D11RHI:      Driver Date: 11-29-2018
+[2018.12.30-18.57.39:569][  0]LogRHI: Texture pool is 2120 MB (70% of 3029 MB)
+[2018.12.30-18.57.39:617][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.30-18.57.39:637][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.30-18.57.39:680][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (../../../../Projet_Unreal/Projet-Unreal/Wukongpointpng/Intermediate/Shaders/WorkingDirectory/12548/).
+[2018.12.30-18.57.39:680][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Tom/AppData/Local/Temp/UnrealShaderWorkingDir/0C51C24245BE0C70D3C31784869D73A8/'.
+[2018.12.30-18.57.40:045][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.30-18.57.40:060][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.30-18.57.40:075][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.30-18.57.40:090][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.30-18.57.40:105][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.30-18.57.40:121][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.30-18.57.40:135][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.30-18.57.40:151][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.30-18.57.40:159][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.30-18.57.40:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-18.57.40:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-18.57.40:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-18.57.40:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-18.57.40:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-18.57.40:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-18.57.40:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-18.57.40:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-18.57.40:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-18.57.40:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-18.57.40:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-18.57.40:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-18.57.40:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-18.57.40:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-18.57.40:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-18.57.40:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-18.57.40:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-18.57.40:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.30-18.57.40:250][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.30-18.57.40:313][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.30-18.57.40:313][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.30-18.57.40:338][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.30-18.57.40:338][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.30-18.57.40:352][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.30-18.57.40:366][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.30-18.57.40:379][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.30-18.57.40:393][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.30-18.57.40:403][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.30-18.57.40:403][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.30-18.57.40:466][  0]LogXGEController: Cleaning working directory: C:/Users/Tom/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.30-18.57.40:466][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.30-18.57.40:466][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.30-18.57.40:466][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.30-18.57.41:221][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.30-18.57.41:291][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/Tom/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.30-18.57.41:291][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Tom/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.30-18.57.41:291][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Projet_Unreal/Projet-Unreal/Wukongpointpng/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.30-18.57.41:291][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.30-18.57.41:291][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Projet_Unreal/Projet-Unreal/Wukongpointpng/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.30-18.57.41:291][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.30-18.57.41:306][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.30-18.57.41:319][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Tom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.30-18.57.41:319][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.30-18.57.41:319][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.30-18.57.41:339][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.30-18.57.41:341][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.30-18.57.41:341][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.30-18.57.41:433][  0]LogAssetRegistry: FAssetRegistry took 0.0264 seconds to start up
+[2018.12.30-18.57.41:778][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.30-18.57.41:923][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.30-18.57.41:927][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.30-18.57.41:927][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.30-18.57.41:927][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.30-18.57.41:927][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.30-18.57.41:948][  0]LogNetVersion: Wukongpointpng 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4139426139)
+[2018.12.30-18.57.42:488][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.083776 seconds
+[2018.12.30-18.57.42:495][  0]LogUObjectArray: 38426 objects as part of root set at end of initial load.
+[2018.12.30-18.57.42:495][  0]LogUObjectAllocator: 6691088 out of 0 bytes used by permanent object pool.
+[2018.12.30-18.57.42:495][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.30-18.57.43:543][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.30-18.57.43:557][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.30-18.57.43:712][  0]SourceControl: Source control is disabled
+[2018.12.30-18.57.43:712][  0]SourceControl: Source control is disabled
+[2018.12.30-18.57.43:713][  0]SourceControl: Source control is disabled
+[2018.12.30-18.57.43:714][  0]SourceControl: Source control is disabled
+[2018.12.30-18.57.43:888][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.30-18.57.43:943][  0]LogOcInput: OculusInput pre-init called
+[2018.12.30-18.57.44:008][  0]LogEngine: Initializing Engine...
+[2018.12.30-18.57.44:009][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2018.12.30-18.57.44:010][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.30-18.57.44:010][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.30-18.57.44:010][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.30-18.57.44:010][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.30-18.57.44:270][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.30-18.57.44:291][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.30-18.57.44:300][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.30-18.57.44:379][  0]LogInit: FAudioDevice initialized.
+[2018.12.30-18.57.44:379][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.30-18.57.44:514][  0]LogDerivedDataCache: Saved boot cache 0.13s 71MB C:/Users/Tom/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.30-18.57.44:514][  0]LogInit: Texture streaming: Enabled
+[2018.12.30-18.57.44:591][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.30-18.57.44:605][  0]LogInit: Transaction tracking system initialized
+[2018.12.30-18.57.44:629][  0]BlueprintLog: New page: Editor Load
+[2018.12.30-18.57.44:726][  0]LocalizationService: Localization service is disabled
+[2018.12.30-18.57.44:998][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.30-18.57.44:999][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.30-18.57.44:999][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.30-18.57.44:999][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.30-18.57.44:999][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.30-18.57.44:999][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.30-18.57.44:999][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.30-18.57.45:141][  0]LogFileCache: Scanning file cache for directory 'D:/Projet_Unreal/Projet-Unreal/Wukongpointpng/Content/' took 0.02s
+[2018.12.30-18.57.45:141][  0]SourceControl: Source control is disabled
+[2018.12.30-18.57.45:141][  0]Cmd: MAP LOAD FILE="../../../../Projet_Unreal/Projet-Unreal/Wukongpointpng/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.30-18.57.45:141][  0]LightingResults: New page: Lighting Build
+[2018.12.30-18.57.45:144][  0]MapCheck: New page: Map Check
+[2018.12.30-18.57.45:144][  0]LightingResults: New page: Lighting Build
+[2018.12.30-18.57.46:002][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.12.30-18.57.46:017][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.30-18.57.46:043][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.30-18.57.46:125][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 82,115ms to complete.
+[2018.12.30-18.57.46:125][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 0.984
+[2018.12.30-18.57.46:227][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-18.57.46:236][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-18.57.46:244][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-18.57.46:252][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-18.57.46:261][  0]LogCollectionManager: Loaded 0 collections in 0.002042 seconds
+[2018.12.30-18.57.46:303][  0]LogFileCache: Scanning file cache for directory 'D:/Projet_Unreal/Projet-Unreal/Wukongpointpng/Saved/Collections/' took 0.01s
+[2018.12.30-18.57.46:303][  0]LogFileCache: Scanning file cache for directory 'D:/Projet_Unreal/Projet-Unreal/Wukongpointpng/Content/Developers/Tom/Collections/' took 0.01s
+[2018.12.30-18.57.46:303][  0]LogFileCache: Scanning file cache for directory 'D:/Projet_Unreal/Projet-Unreal/Wukongpointpng/Content/Collections/' took 0.01s
+[2018.12.30-18.57.46:303][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.30-18.57.46:312][  0]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 2572 classes and 603 folders.
+[2018.12.30-18.57.46:320][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.30-18.57.46:394][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.30-18.57.46:399][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.12.30-18.57.46:469][  0]LogSlate: Took 0.000347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.30-18.57.46:472][  0]LogSlate: Took 0.000465 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.30-18.57.46:481][  0]LogSlate: Took 0.000392 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.30-18.57.46:578][  0]LogRenderer: Reallocating scene render targets to support 1148x504 Format 10 NumSamples 1 (Frame:1).
+[2018.12.30-18.57.46:745][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.30-18.57.46:745][  0]LogLoad: (Engine Initialization) Total time: 9.94 seconds
+[2018.12.30-18.57.46:745][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.30-18.57.46:765][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.30-18.57.46:800][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.30-18.57.46:836][  0]LogSlate: Took 0.000345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.30-18.57.46:846][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Projet_Unreal/Projet-Unreal/Wukongpointpng/Content/' took 0.07s
+[2018.12.30-18.57.46:871][  1]LogAssetRegistry: Asset discovery search completed in 5.4600 seconds
+[2018.12.30-18.57.46:873][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.30-18.57.46:873][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000095 seconds (updated 0 objects)
+[2018.12.30-18.57.47:782][ 49]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.30-19.01.05:243][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-19.01.08:218][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.30-19.01.08:332][ 75]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2018.12.30-19.01.08:818][ 75]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.12.30-19.01.09:669][ 75]LogSlate: Took 0.000433 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.30-19.01.10:004][ 76]LogSlate: Took 0.000393 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.30-19.01.23:016][853]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.12.30-19.01.23:928][871]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.30-19.01.23:967][871]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.30-19.01.23:967][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.30-19.01.23:980][871]PIE: New page: PIE session: SideScrollerExampleMap (30 déc. 2018 21:01:23)
+[2018.12.30-19.01.23:981][871]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2018.12.30-19.01.24:006][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025225s)
+[2018.12.30-19.01.24:008][871]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.12.30-19.01.24:008][871]LogPlayLevel: PIE: World Init took: (0.001598s)
+[2018.12.30-19.01.24:008][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.027087s)
+[2018.12.30-19.01.24:049][871]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.30-19.01.24:122][871]LogInit: FAudioDevice initialized.
+[2018.12.30-19.01.24:132][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-19.01.24:183][871]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.12.30-19.01.24:188][871]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2018.12.30-20.01.24
+[2018.12.30-19.01.24:188][871]LogWorld: Bringing up level for play took: 0.003458
+[2018.12.30-19.01.24:206][871]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.12.30-19.01.24:209][871]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0,183
+[2018.12.30-19.01.24:209][871]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.30-19.01.24:210][871]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.24:532][871]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.12.30-19.01.24:581][872]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.24:614][873]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.24:629][874]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.24:646][875]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.24:662][876]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.24:679][877]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.24:696][878]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.24:712][879]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.24:729][880]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.24:746][881]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.24:763][882]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.24:779][883]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.24:796][884]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.24:813][885]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.24:829][886]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.24:846][887]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.24:862][888]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.24:879][889]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.24:896][890]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.24:913][891]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.24:929][892]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.24:946][893]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.24:963][894]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.24:980][895]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.24:996][896]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:013][897]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:030][898]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:045][899]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:062][900]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:079][901]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:096][902]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:112][903]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:129][904]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:146][905]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:162][906]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:179][907]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:196][908]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:213][909]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:232][910]LogBlueprintUserMessages: [SideScrollerCharacter_78] Boomerang
+[2018.12.30-19.01.25:582][931]LogBlueprintUserMessages: [SideScrollerCharacter_78] Boomerang destroyed
+[2018.12.30-19.01.25:582][931]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:596][932]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:613][933]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:629][934]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:646][935]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:663][936]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:680][937]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:697][938]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:712][939]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:729][940]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:747][941]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:763][942]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:780][943]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:796][944]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:813][945]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:829][946]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:846][947]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:862][948]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:879][949]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:896][950]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:912][951]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:929][952]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:946][953]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:963][954]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:979][955]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.25:996][956]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.26:013][957]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.26:029][958]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.26:045][959]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.26:063][960]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.26:079][961]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.26:096][962]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.26:113][963]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.26:130][964]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.26:146][965]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.26:163][966]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.26:179][967]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.26:196][968]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.26:213][969]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.26:229][970]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.26:246][971]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.26:263][972]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.26:280][973]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.26:296][974]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.26:313][975]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.26:332][976]LogBlueprintUserMessages: [SideScrollerCharacter_78] Boomerang
+[2018.12.30-19.01.26:716][999]LogBlueprintUserMessages: [SideScrollerCharacter_78] Boomerang
+[2018.12.30-19.01.26:998][ 16]LogBlueprintUserMessages: [SideScrollerCharacter_78] Boomerang
+[2018.12.30-19.01.27:199][ 28]LogBlueprintUserMessages: [SideScrollerCharacter_78] Boomerang
+[2018.12.30-19.01.27:369][ 36]LogBlueprintUserMessages: [SideScrollerCharacter_78] Boomerang
+[2018.12.30-19.01.27:369][ 36]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:380][ 37]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:396][ 38]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:413][ 39]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:429][ 40]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:446][ 41]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:463][ 42]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:482][ 43]LogBlueprintUserMessages: [SideScrollerCharacter_78] Boomerang
+[2018.12.30-19.01.27:483][ 43]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:496][ 44]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:513][ 45]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:530][ 46]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:546][ 47]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:563][ 48]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:580][ 49]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:599][ 50]LogBlueprintUserMessages: [SideScrollerCharacter_78] Boomerang
+[2018.12.30-19.01.27:599][ 50]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:613][ 51]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:630][ 52]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:647][ 53]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:663][ 54]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:680][ 55]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:697][ 56]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:712][ 57]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:712][ 57]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:729][ 58]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:729][ 58]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:746][ 59]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:746][ 59]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:762][ 60]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:763][ 60]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:779][ 61]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:779][ 61]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:796][ 62]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:796][ 62]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:813][ 63]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:813][ 63]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:829][ 64]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:829][ 64]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:846][ 65]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:846][ 65]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:863][ 66]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:863][ 66]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:879][ 67]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:880][ 67]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:896][ 68]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:896][ 68]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:913][ 69]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:913][ 69]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:930][ 70]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:930][ 70]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:946][ 71]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:946][ 71]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:963][ 72]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:963][ 72]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:980][ 73]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:980][ 73]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:996][ 74]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:997][ 74]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.27:997][ 74]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:013][ 75]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:013][ 75]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:013][ 75]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:030][ 76]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:030][ 76]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:030][ 76]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:047][ 77]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:047][ 77]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:047][ 77]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:063][ 78]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:064][ 78]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:064][ 78]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:080][ 79]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:080][ 79]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:080][ 79]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:096][ 80]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:096][ 80]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:096][ 80]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:113][ 81]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:113][ 81]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:113][ 81]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:129][ 82]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:129][ 82]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:129][ 82]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:147][ 83]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:147][ 83]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:147][ 83]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:163][ 84]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:163][ 84]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:163][ 84]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:179][ 85]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:179][ 85]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:179][ 85]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:196][ 86]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:196][ 86]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:196][ 86]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:196][ 86]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:213][ 87]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:213][ 87]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:213][ 87]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:213][ 87]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:230][ 88]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:230][ 88]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:230][ 88]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:230][ 88]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:246][ 89]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:246][ 89]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:246][ 89]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:246][ 89]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:263][ 90]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:263][ 90]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:263][ 90]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:263][ 90]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:280][ 91]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:280][ 91]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:280][ 91]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:280][ 91]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:296][ 92]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:296][ 92]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:296][ 92]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:296][ 92]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:313][ 93]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:313][ 93]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:313][ 93]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:313][ 93]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:330][ 94]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:330][ 94]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:330][ 94]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:330][ 94]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:330][ 94]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:347][ 95]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:347][ 95]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:347][ 95]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:347][ 95]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:347][ 95]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:363][ 96]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:363][ 96]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:363][ 96]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:363][ 96]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:363][ 96]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:380][ 97]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:380][ 97]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:380][ 97]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:380][ 97]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:380][ 97]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:396][ 98]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:396][ 98]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:396][ 98]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:396][ 98]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:396][ 98]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:413][ 99]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:413][ 99]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:413][ 99]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:413][ 99]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:413][ 99]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:429][100]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:430][100]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:430][100]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:430][100]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:430][100]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2018.12.30-19.01.28:448][101]LogBlueprintUserMessages: [SideScrollerCharacter_78] Boomerang destroyed
+[2018.12.30-19.01.28:448][101]LogBlueprintUserMessages: [SideScrollerCharacter_78] Boomerang destroyed
+[2018.12.30-19.01.28:449][101]LogBlueprintUserMessages: [SideScrollerCharacter_78] Boomerang destroyed
+[2018.12.30-19.01.28:449][101]LogBlueprintUserMessages: [SideScrollerCharacter_78] Boomerang destroyed
+[2018.12.30-19.01.28:449][101]LogBlueprintUserMessages: [SideScrollerCharacter_78] Boomerang destroyed
+[2018.12.30-19.01.28:449][101]LogBlueprintUserMessages: [SideScrollerCharacter_78] Boomerang destroyed
+[2018.12.30-19.01.28:449][101]LogBlueprintUserMessages: [SideScrollerCharacter_78] Boomerang destroyed
+[2018.12.30-19.01.28:449][101]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:463][102]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:480][103]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:496][104]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:513][105]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:530][106]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:546][107]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:563][108]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:580][109]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:596][110]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:613][111]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:630][112]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:647][113]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:663][114]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:680][115]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:696][116]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:713][117]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:730][118]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:746][119]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:763][120]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:780][121]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:796][122]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:813][123]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:830][124]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:847][125]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:864][126]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:880][127]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:897][128]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:914][129]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:930][130]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:946][131]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:963][132]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:979][133]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.28:996][134]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:013][135]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:029][136]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:046][137]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:063][138]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:080][139]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:096][140]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:113][141]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:130][142]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:147][143]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:163][144]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:180][145]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:197][146]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:214][147]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:230][148]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:246][149]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:263][150]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:280][151]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:296][152]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:313][153]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:330][154]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:347][155]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:364][156]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:380][157]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:397][158]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:414][159]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:431][160]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:447][161]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:463][162]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:480][163]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:497][164]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:514][165]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:531][166]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:548][167]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:564][168]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:581][169]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:597][170]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:614][171]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:630][172]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:647][173]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:663][174]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:680][175]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:696][176]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:714][177]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:731][178]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:747][179]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:764][180]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:780][181]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:797][182]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:814][183]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:830][184]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:847][185]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:864][186]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:880][187]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:897][188]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:914][189]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:930][190]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:948][191]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:964][192]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:980][193]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.29:997][194]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:014][195]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:031][196]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:047][197]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:065][198]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:081][199]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:098][200]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:115][201]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:130][202]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:147][203]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:164][204]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:180][205]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:197][206]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:214][207]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:231][208]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:248][209]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:264][210]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:281][211]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:297][212]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:314][213]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:330][214]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:346][215]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:363][216]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:380][217]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:396][218]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:414][219]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:430][220]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:447][221]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:464][222]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:481][223]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:497][224]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:514][225]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:530][226]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:547][227]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:564][228]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:581][229]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:597][230]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:614][231]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:631][232]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:648][233]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:664][234]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:681][235]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:698][236]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:714][237]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:730][238]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:747][239]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:763][240]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:780][241]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:797][242]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:814][243]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:830][244]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:847][245]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:864][246]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:881][247]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:897][248]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:914][249]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:930][250]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:947][251]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:964][252]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:980][253]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.30:997][254]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:014][255]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:030][256]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:048][257]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:064][258]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:081][259]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:097][260]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:114][261]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:131][262]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:147][263]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:164][264]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:181][265]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:198][266]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:215][267]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:231][268]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:248][269]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:263][270]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:280][271]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:297][272]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:314][273]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:330][274]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:347][275]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:363][276]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:380][277]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:397][278]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:414][279]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:430][280]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:447][281]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:463][282]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:480][283]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:497][284]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:513][285]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:530][286]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:547][287]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:563][288]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:580][289]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:597][290]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:614][291]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:631][292]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:646][293]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:663][294]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:680][295]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:696][296]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:713][297]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:730][298]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:747][299]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:763][300]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:780][301]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:797][302]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:814][303]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:830][304]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:847][305]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:863][306]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:880][307]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:897][308]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:914][309]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:930][310]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:947][311]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:964][312]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:981][313]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.31:997][314]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:014][315]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:030][316]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:047][317]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:063][318]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:080][319]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:096][320]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:114][321]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:131][322]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:147][323]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:164][324]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:180][325]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:197][326]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:214][327]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:230][328]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:247][329]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:264][330]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:281][331]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:297][332]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:314][333]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:331][334]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:347][335]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:364][336]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:381][337]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:396][338]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:414][339]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:430][340]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:447][341]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:464][342]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:481][343]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:497][344]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:514][345]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:530][346]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:548][347]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:564][348]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:581][349]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:597][350]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:614][351]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:631][352]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:647][353]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:664][354]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:681][355]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:697][356]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:714][357]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:731][358]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:748][359]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:765][360]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2018.12.30-19.01.32:766][360]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.30-19.01.32:766][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.30-19.01.32:786][360]LogSlate: Window 'Wukongpointpng Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.30-19.01.32:841][360]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.30-19.01.32:841][360]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.12.30-19.01.33:170][361]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.12.30-19.01.34:331][416]LogSavePackage: Moving '../../../../Projet_Unreal/Projet-Unreal/Wukongpointpng/Saved/SideScrollerCharacter64DD2BD9473FA6EA3F5E14BE12A3C119.tmp' to '../../../../Projet_Unreal/Projet-Unreal/Wukongpointpng/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2018.12.30-19.01.37:440][582]LogSavePackage: Moving '../../../../Projet_Unreal/Projet-Unreal/Wukongpointpng/Saved/SideScrollerExampleMapF227858C46AE3A0E8E6341802443A2DA.tmp' to '../../../../Projet_Unreal/Projet-Unreal/Wukongpointpng/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2018.12.30-19.01.38:237][613]LogSlate: Window 'Wukongpointpng - Unreal Editor' being destroyed
+[2018.12.30-19.01.38:238][613]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.30-19.01.38:420][614]Cmd: QUIT_EDITOR
+[2018.12.30-19.01.38:861][614]LogExit: Preparing to exit.
+[2018.12.30-19.01.39:728][614]LogExit: Editor shut down
+[2018.12.30-19.01.39:728][614]LogExit: Transaction tracking system shut down
+[2018.12.30-19.01.40:244][614]LogExit: Object subsystem successfully closed.
+[2018.12.30-19.01.40:270][614]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.12.30-19.01.40:274][614]LogD3D11RHI: Shutdown
+[2018.12.30-19.01.40:274][614]LogD3D11RHI: CleanupD3DDevice
+[2018.12.30-19.01.40:276][614]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.30-19.01.40:288][614]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (616)
+[2018.12.30-19.01.40:288][614]LogModuleManager: Shutting down and abandoning module Voice (614)
+[2018.12.30-19.01.40:288][614]LogModuleManager: Shutting down and abandoning module BlueprintGraph (612)
+[2018.12.30-19.01.40:288][614]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.12.30-19.01.40:288][614]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.12.30-19.01.40:288][614]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.12.30-19.01.40:289][614]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.12.30-19.01.40:289][614]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.12.30-19.01.40:289][614]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.12.30-19.01.40:290][614]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.12.30-19.01.40:290][614]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.12.30-19.01.40:290][614]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.12.30-19.01.40:290][614]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.12.30-19.01.40:290][614]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.12.30-19.01.40:290][614]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.12.30-19.01.40:290][614]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.12.30-19.01.40:290][614]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.12.30-19.01.40:290][614]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.12.30-19.01.40:290][614]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.12.30-19.01.40:290][614]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.12.30-19.01.40:290][614]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.12.30-19.01.40:290][614]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.12.30-19.01.40:290][614]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.12.30-19.01.40:290][614]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.12.30-19.01.40:290][614]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.12.30-19.01.40:290][614]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.12.30-19.01.40:290][614]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.12.30-19.01.40:290][614]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.12.30-19.01.40:290][614]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.12.30-19.01.40:290][614]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.12.30-19.01.40:291][614]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.12.30-19.01.40:291][614]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.12.30-19.01.40:291][614]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.12.30-19.01.40:291][614]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.12.30-19.01.40:291][614]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.12.30-19.01.40:291][614]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.12.30-19.01.40:291][614]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.12.30-19.01.40:291][614]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.12.30-19.01.40:291][614]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.12.30-19.01.40:291][614]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.12.30-19.01.40:291][614]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.12.30-19.01.40:291][614]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.12.30-19.01.40:291][614]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.12.30-19.01.40:291][614]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.12.30-19.01.40:291][614]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.12.30-19.01.40:291][614]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.12.30-19.01.40:291][614]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.12.30-19.01.40:291][614]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.12.30-19.01.40:291][614]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.12.30-19.01.40:291][614]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.12.30-19.01.40:291][614]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.12.30-19.01.40:291][614]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.12.30-19.01.40:291][614]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.12.30-19.01.40:291][614]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.12.30-19.01.40:291][614]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.12.30-19.01.40:903][614]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.12.30-19.01.40:903][614]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.12.30-19.01.40:903][614]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.12.30-19.01.40:903][614]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.12.30-19.01.40:903][614]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.12.30-19.01.40:903][614]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.12.30-19.01.40:904][614]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.12.30-19.01.40:904][614]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.12.30-19.01.40:904][614]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.12.30-19.01.40:904][614]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.12.30-19.01.40:904][614]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.12.30-19.01.40:904][614]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.12.30-19.01.40:904][614]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.12.30-19.01.40:904][614]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.12.30-19.01.40:904][614]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.12.30-19.01.40:904][614]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.12.30-19.01.40:904][614]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.12.30-19.01.40:904][614]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.12.30-19.01.40:904][614]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.12.30-19.01.40:904][614]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.12.30-19.01.40:904][614]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.12.30-19.01.40:904][614]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.12.30-19.01.40:968][614]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.12.30-19.01.40:968][614]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.12.30-19.01.40:968][614]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.12.30-19.01.40:968][614]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.12.30-19.01.40:968][614]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.12.30-19.01.40:968][614]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.12.30-19.01.40:968][614]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.12.30-19.01.40:968][614]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.12.30-19.01.40:968][614]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.12.30-19.01.40:968][614]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.12.30-19.01.40:971][614]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.12.30-19.01.40:971][614]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.12.30-19.01.40:971][614]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.12.30-19.01.40:971][614]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.12.30-19.01.40:972][614]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.12.30-19.01.40:972][614]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.12.30-19.01.40:972][614]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.12.30-19.01.40:972][614]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.12.30-19.01.40:972][614]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.12.30-19.01.40:972][614]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.12.30-19.01.40:972][614]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.12.30-19.01.40:972][614]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.12.30-19.01.40:972][614]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.12.30-19.01.40:972][614]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.12.30-19.01.40:972][614]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.12.30-19.01.40:972][614]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.12.30-19.01.40:972][614]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.12.30-19.01.40:972][614]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.12.30-19.01.40:972][614]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.12.30-19.01.40:972][614]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.12.30-19.01.40:972][614]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.12.30-19.01.40:972][614]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.12.30-19.01.41:182][614]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.12.30-19.01.41:182][614]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.12.30-19.01.41:182][614]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.12.30-19.01.41:182][614]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.12.30-19.01.41:182][614]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.12.30-19.01.41:182][614]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.12.30-19.01.41:182][614]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.12.30-19.01.41:182][614]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.12.30-19.01.41:182][614]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.12.30-19.01.41:182][614]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.12.30-19.01.41:182][614]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.12.30-19.01.41:182][614]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.12.30-19.01.41:182][614]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.12.30-19.01.41:182][614]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.12.30-19.01.41:182][614]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.12.30-19.01.41:182][614]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.12.30-19.01.41:182][614]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.12.30-19.01.41:182][614]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.12.30-19.01.41:186][614]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.12.30-19.01.41:186][614]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.12.30-19.01.41:186][614]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.12.30-19.01.41:186][614]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.12.30-19.01.41:186][614]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.12.30-19.01.41:186][614]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.12.30-19.01.41:186][614]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.12.30-19.01.41:186][614]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.12.30-19.01.41:186][614]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.12.30-19.01.41:186][614]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.12.30-19.01.41:186][614]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.12.30-19.01.41:186][614]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.12.30-19.01.41:187][614]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.12.30-19.01.41:187][614]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.12.30-19.01.41:187][614]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.12.30-19.01.41:187][614]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.12.30-19.01.41:187][614]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.12.30-19.01.41:187][614]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.12.30-19.01.41:187][614]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.12.30-19.01.41:187][614]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.12.30-19.01.41:187][614]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.12.30-19.01.41:187][614]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.12.30-19.01.41:187][614]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.12.30-19.01.41:187][614]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.12.30-19.01.41:187][614]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.12.30-19.01.41:187][614]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.12.30-19.01.41:187][614]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.12.30-19.01.41:187][614]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.12.30-19.01.41:187][614]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.12.30-19.01.41:187][614]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.12.30-19.01.41:187][614]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.12.30-19.01.41:187][614]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.12.30-19.01.41:187][614]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.12.30-19.01.41:187][614]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.12.30-19.01.41:187][614]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.12.30-19.01.41:187][614]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.12.30-19.01.41:188][614]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.12.30-19.01.41:188][614]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.12.30-19.01.41:188][614]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.12.30-19.01.41:188][614]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.12.30-19.01.41:188][614]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.12.30-19.01.41:289][614]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.12.30-19.01.41:390][614]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.12.30-19.01.41:390][614]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.12.30-19.01.41:390][614]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.12.30-19.01.41:390][614]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.12.30-19.01.41:390][614]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.12.30-19.01.41:390][614]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.12.30-19.01.41:390][614]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.12.30-19.01.41:391][614]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.12.30-19.01.41:391][614]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.12.30-19.01.41:391][614]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.12.30-19.01.41:391][614]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.12.30-19.01.41:391][614]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.12.30-19.01.41:392][614]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.12.30-19.01.41:392][614]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.12.30-19.01.41:392][614]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.12.30-19.01.41:392][614]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.12.30-19.01.41:392][614]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.12.30-19.01.41:392][614]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.12.30-19.01.41:394][614]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.12.30-19.01.41:400][614]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.12.30-19.01.41:400][614]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.12.30-19.01.41:400][614]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.12.30-19.01.41:400][614]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.12.30-19.01.41:400][614]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.12.30-19.01.41:400][614]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.12.30-19.01.41:400][614]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.12.30-19.01.41:400][614]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.12.30-19.01.41:400][614]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.12.30-19.01.41:400][614]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.12.30-19.01.41:400][614]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.12.30-19.01.41:400][614]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.12.30-19.01.41:400][614]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.12.30-19.01.41:400][614]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.12.30-19.01.41:400][614]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.12.30-19.01.41:400][614]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.12.30-19.01.41:400][614]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.12.30-19.01.41:400][614]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.12.30-19.01.41:400][614]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.12.30-19.01.41:400][614]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.12.30-19.01.41:402][614]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.12.30-19.01.41:402][614]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.12.30-19.01.41:402][614]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.12.30-19.01.41:402][614]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.12.30-19.01.41:402][614]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.12.30-19.01.41:402][614]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.12.30-19.01.41:402][614]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.12.30-19.01.41:402][614]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.12.30-19.01.41:402][614]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.12.30-19.01.41:402][614]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.12.30-19.01.41:402][614]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.12.30-19.01.41:402][614]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.12.30-19.01.41:402][614]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.12.30-19.01.41:402][614]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.12.30-19.01.41:402][614]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.12.30-19.01.41:402][614]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.12.30-19.01.41:402][614]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.12.30-19.01.41:402][614]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.12.30-19.01.41:433][614]LogDerivedDataCache: Shutdown
+[2018.12.30-19.01.41:434][614]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.12.30-19.01.41:434][614]LogXGEController: Cleaning working directory: C:/Users/Tom/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.30-19.01.41:434][614]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.12.30-19.01.41:434][614]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.12.30-19.01.41:434][614]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.12.30-19.01.41:434][614]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.12.30-19.01.41:434][614]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.12.30-19.01.41:434][614]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.12.30-19.01.41:434][614]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.12.30-19.01.41:434][614]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.12.30-19.01.41:434][614]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.12.30-19.01.41:434][614]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.12.30-19.01.41:434][614]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.12.30-19.01.41:434][614]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.12.30-19.01.41:434][614]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.12.30-19.01.41:434][614]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.12.30-19.01.41:434][614]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.12.30-19.01.41:434][614]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.12.30-19.01.41:434][614]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.12.30-19.01.41:434][614]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.12.30-19.01.41:434][614]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.12.30-19.01.41:434][614]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.12.30-19.01.41:434][614]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.12.30-19.01.41:434][614]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.12.30-19.01.41:435][614]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.12.30-19.01.41:435][614]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.12.30-19.01.41:436][614]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.12.30-19.01.41:436][614]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.12.30-19.01.41:441][614]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.12.30-19.01.41:442][614]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.12.30-19.01.41:442][614]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.12.30-19.01.41:442][614]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.12.30-19.01.41:442][614]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.12.30-19.01.41:442][614]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.12.30-19.01.41:442][614]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.12.30-19.01.41:442][614]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.12.30-19.01.41:442][614]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.12.30-19.01.41:442][614]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.12.30-19.01.41:442][614]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.12.30-19.01.41:442][614]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.12.30-19.01.41:442][614]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.12.30-19.01.41:442][614]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.12.30-19.01.41:442][614]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.12.30-19.01.41:442][614]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.12.30-19.01.41:442][614]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.12.30-19.01.41:442][614]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.12.30-19.01.41:443][614]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.12.30-19.01.41:443][614]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.12.30-19.01.41:459][614]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.12.30-19.01.41:459][614]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.12.30-19.01.41:459][614]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEDC1F52A-4E5F-7774-9B26-AC97D2327AC9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=0a34d52b47933266f470deb52612c378%7C424d29f0eb3e41838378eaad155bef5d%7C921af401-3263-4114-a3ee-ae18dd84d636&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.30-19.01.41:475][614]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.12.30-19.01.41:476][614]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.12.30-19.01.41:476][614]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.12.30-19.01.41:476][614]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.12.30-19.01.41:476][614]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.12.30-19.01.41:476][614]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.12.30-19.01.41:476][614]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.12.30-19.01.41:476][614]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.12.30-19.01.41:476][614]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.12.30-19.01.41:476][614]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.12.30-19.01.41:476][614]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.12.30-19.01.41:476][614]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.12.30-19.01.41:476][614]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.12.30-19.01.41:477][614]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.12.30-19.01.41:477][614]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.12.30-19.01.41:477][614]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.12.30-19.01.41:477][614]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.12.30-19.01.41:477][614]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.12.30-19.01.41:477][614]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.12.30-19.01.41:477][614]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.12.30-19.01.41:477][614]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.12.30-19.01.41:477][614]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.12.30-19.01.41:477][614]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.12.30-19.01.41:477][614]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.12.30-19.01.41:477][614]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.12.30-19.01.41:477][614]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.12.30-19.01.41:477][614]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.12.30-19.01.41:477][614]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.12.30-19.01.41:477][614]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.12.30-19.01.41:477][614]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.12.30-19.01.41:486][614]LogExit: Exiting.
+[2018.12.30-19.01.41:498][614]Log file closed, 12/30/18 20:01:41
